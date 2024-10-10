@@ -1,0 +1,1169 @@
+
+{
+  
+    "hello": "Hi! How can I help you today?",
+	"who are you": "I am a ChatBot AI created to assist you.",
+    "what is your name": "I am a ChatBot AI created to assist you.",
+    "how are you": "I'm just a program, but thanks for asking!",
+    "what can you do": "I can answer your questions!",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "goodbye": "Goodbye! Have a great day!",
+    "what is ai": "AI stands for Artificial Intelligence, a field of study focused on making machines smart.",
+    "what is bangladesh": "Bangladesh is a South Asian country located on the Bay of Bengal, bordered by India to the west, north, and east, and Myanmar to the southeast. It is the eighth-most populous country in the world, with over 160 million people. The capital and largest city is Dhaka. Key facts about Bangladesh: Official language: Bengali (Bangla), Currency: Bangladeshi Taka (BDT), Government: Parliamentary democracy, Independence: 1971, Geography: prone to flooding, Economy: driven by textiles and agriculture.",
+    "What is the capital of France?": "The capital of France is Paris.",
+    "Who wrote 'Romeo and Juliet'?": "William Shakespeare wrote 'Romeo and Juliet'.",
+    "What is the largest planet in our solar system?": "Jupiter is the largest planet in our solar system.",
+    "How many continents are there in the world?": "There are seven continents in the world.",
+    "Who painted the Mona Lisa?": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "What is the boiling point of water?": "The boiling point of water is 100°C or 212°F at sea level.",
+    "How many states are there in the United States?": "There are 50 states in the United States.",
+    "What is the smallest country in the world?": "The smallest country in the world is Vatican City.",
+    "What is the longest river in the world?": "The Nile River is considered the longest river in the world.",
+    "What is the speed of light?": "The speed of light is approximately 299,792 kilometers per second.",
+    "What is the capital of Japan?": "The capital of Japan is Tokyo.",
+    "What is the freezing point of water?": "The freezing point of water is 0°C or 32°F.",
+    "Who discovered penicillin?": "Alexander Fleming discovered penicillin.",
+    "What is the capital of Italy?": "The capital of Italy is Rome.",
+    "Who was the first man to walk on the moon?": "Neil Armstrong was the first man to walk on the moon.",
+    "What is the square root of 64?": "The square root of 64 is 8.",
+    "What is the chemical symbol for gold?": "The chemical symbol for gold is Au.",
+    "What is the capital of Australia?": "The capital of Australia is Canberra.",
+    "Who wrote 'Pride and Prejudice'?": "Jane Austen wrote 'Pride and Prejudice'.",
+    "How many bones are in the human body?": "There are 206 bones in the human body.",
+    "What is the capital of Canada?": "The capital of Canada is Ottawa.",
+    "What is the largest ocean on Earth?": "The Pacific Ocean is the largest ocean on Earth.",
+    "What is the tallest building in the world?": "The tallest building in the world is the Burj Khalifa in Dubai.",
+    "What is the capital of Germany?": "The capital of Germany is Berlin.",
+    "What is the chemical symbol for water?": "The chemical symbol for water is H2O.",
+    "Who invented the telephone?": "Alexander Graham Bell invented the telephone.",
+    "What is the largest desert in the world?": "The largest desert in the world is the Sahara Desert.",
+    "What is the capital of China?": "The capital of China is Beijing.",
+    "What is the most spoken language in the world?": "The most spoken language in the world is Mandarin Chinese.",
+    "How many planets are in the solar system?": "There are 8 planets in the solar system.",
+    "What is the capital of Russia?": "The capital of Russia is Moscow.",
+    "Who wrote 'The Catcher in the Rye'?": "J.D. Salinger wrote 'The Catcher in the Rye'.",
+    "What is the fastest land animal?": "The fastest land animal is the cheetah.",
+    "What is the currency of the United Kingdom?": "The currency of the United Kingdom is the British Pound.",
+    "Who invented the light bulb?": "Thomas Edison is credited with inventing the light bulb.",
+    "What is the capital of Spain?": "The capital of Spain is Madrid.",
+    "Who wrote 'Moby-Dick'?": "Herman Melville wrote 'Moby-Dick'.",
+    "What is the hardest natural substance on Earth?": "Diamond is the hardest natural substance on Earth.",
+    "What is the tallest waterfall in the world?": "Angel Falls in Venezuela is the tallest waterfall in the world.",
+    "What is the capital of India?": "The capital of India is New Delhi.",
+    "What is the largest mammal?": "The largest mammal is the blue whale.",
+    "How many teeth does an adult human have?": "An adult human has 32 teeth.",
+    "Who developed the theory of relativity?": "Albert Einstein developed the theory of relativity.",
+    "What is the capital of Brazil?": "The capital of Brazil is Brasília.",
+    "Who wrote 'To Kill a Mockingbird'?": "Harper Lee wrote 'To Kill a Mockingbird'.",
+    "What is the hottest planet in our solar system?": "Venus is the hottest planet in our solar system.",
+    "What is the capital of South Africa?": "South Africa has three capitals: Pretoria, Bloemfontein, and Cape Town.",
+    "Who discovered gravity?": "Sir Isaac Newton is credited with discovering gravity.",
+    "What is the longest bone in the human body?": "The femur, or thigh bone, is the longest bone in the human body.",
+    "What is the capital of Mexico?": "The capital of Mexico is Mexico City.",
+    "What is the chemical symbol for oxygen?": "The chemical symbol for oxygen is O.",
+    "What is the capital of Argentina?": "The capital of Argentina is Buenos Aires.",
+    "Who invented the airplane?": "The Wright brothers, Orville and Wilbur, invented the airplane.",
+    "What is the largest island in the world?": "Greenland is the largest island in the world.",
+    "What is the capital of Egypt?": "The capital of Egypt is Cairo.",
+    "What is the smallest bone in the human body?": "The stapes, or stirrup bone, in the ear is the smallest bone in the human body.",
+    "Who wrote '1984'?": "George Orwell wrote '1984'.",
+    "What is the capital of Greece?": "The capital of Greece is Athens.",
+	"what is the capital of Bangladesh?": "The capital of Bangladesh is Dhaka.",
+    "বাংলাদেশের রাজধানী কী?": "বাংলাদেশের রাজধানী ঢাকা।",
+    "what is the national language of Bangladesh?": "The national language of Bangladesh is Bengali.",
+    "বাংলাদেশের জাতীয় ভাষা কী?": "বাংলাদেশের জাতীয় ভাষা বাংলা।",
+	"who is the father of nation of Bangladesh ": "Bangabandhu Sheikh Mujibur Rahman is the Father of the Nation of Bangladesh.",
+    "who is the Father of the Nation of Bangladesh?": "Bangabandhu Sheikh Mujibur Rahman is the Father of the Nation of Bangladesh.",
+    "বাংলাদেশের জাতির পিতা কে?": "বাংলাদেশের জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান।",
+    "what is the national flower of Bangladesh?": "The national flower of Bangladesh is the Water Lily.",
+    "বাংলাদেশের জাতীয় ফুল কী?": "বাংলাদেশের জাতীয় ফুল শাপলা।",
+    "which river is known as the 'Padma' in Bangladesh?": "The Ganges is known as the Padma in Bangladesh.",
+    "বাংলাদেশে কোন নদী 'পদ্মা' নামে পরিচিত?": "গঙ্গা বাংলাদেশে পদ্মা নামে পরিচিত।",
+
+    "when did Bangladesh gain independence?": "Bangladesh gained independence on March 26, 1971.",
+    "বাংলাদেশ কবে স্বাধীনতা অর্জন করে?": "বাংলাদেশ ২৬ মার্চ ১৯৭১ সালে স্বাধীনতা অর্জন করে।",
+
+    "what is the national anthem of Bangladesh?": "The national anthem of Bangladesh is 'Amar Shonar Bangla'.",
+    "বাংলাদেশের জাতীয় সঙ্গীত কী?": "বাংলাদেশের জাতীয় সঙ্গীত 'আমার সোনার বাংলা'।",
+
+    "what is the currency of Bangladesh?": "The currency of Bangladesh is the Bangladeshi Taka.",
+    "বাংলাদেশের মুদ্রার নাম কী?": "বাংলাদেশের মুদ্রার নাম টাকা।",
+
+    "which sea is located to the south of Bangladesh?": "The Bay of Bengal is located to the south of Bangladesh.",
+    "বাংলাদেশের দক্ষিণে কোন সাগর অবস্থিত?": "বাংলাদেশের দক্ষিণে বঙ্গোপসাগর অবস্থিত।",
+
+    "what is the official religion of Bangladesh?": "Islam is the official religion of Bangladesh.",
+    "বাংলাদেশের সরকারি ধর্ম কী?": "বাংলাদেশের সরকারি ধর্ম ইসলাম।",
+
+    "what is the national sport of Bangladesh?": "The national sport of Bangladesh is Kabaddi.",
+    "বাংলাদেশের জাতীয় খেলা কী?": "বাংলাদেশের জাতীয় খেলা কাবাডি।",
+
+    "which river flows through the capital city Dhaka?": "The Buriganga River flows through Dhaka.",
+    "ঢাকা শহরের মধ্য দিয়ে কোন নদী প্রবাহিত হয়?": "বুড়িগঙ্গা নদী ঢাকা শহরের মধ্য দিয়ে প্রবাহিত হয়।",
+
+    "what is the national fruit of Bangladesh?": "The national fruit of Bangladesh is the Jackfruit.",
+    "বাংলাদেশের জাতীয় ফল কী?": "বাংলাদেশের জাতীয় ফল কাঁঠাল।",
+
+    "who was the first president of Bangladesh?": "The first president of Bangladesh was Sheikh Mujibur Rahman.",
+    "বাংলাদেশের প্রথম রাষ্ট্রপতি কে ছিলেন?": "বাংলাদেশের প্রথম রাষ্ট্রপতি ছিলেন শেখ মুজিবুর রহমান।",
+
+    "which is the highest peak in Bangladesh?": "The highest peak in Bangladesh is Saka Haphong.",
+    "বাংলাদেশের সর্বোচ্চ শৃঙ্গ কোনটি?": "বাংলাদেশের সর্বোচ্চ শৃঙ্গ সাকা হাফং।",
+
+    "what is the literacy rate of Bangladesh?": "The literacy rate of Bangladesh is around 74.7%.",
+    "বাংলাদেশের সাক্ষরতার হার কত?": "বাংলাদেশের সাক্ষরতার হার প্রায় ৭৪.৭%।",
+
+    "which country shares the longest border with Bangladesh?": "India shares the longest border with Bangladesh.",
+    "বাংলাদেশের সাথে সবচেয়ে দীর্ঘ সীমান্ত কোন দেশের?": "বাংলাদেশের সাথে সবচেয়ে দীর্ঘ সীমান্ত ভারতের।",
+
+    "what is the population of Bangladesh?": "The population of Bangladesh is approximately 170 million.",
+    "বাংলাদেশের জনসংখ্যা কত?": "বাংলাদেশের জনসংখ্যা প্রায় ১৭ কোটি।",
+
+    "what is the area of Bangladesh?": "The area of Bangladesh is about 147,570 square kilometers.",
+    "বাংলাদেশের আয়তন কত?": "বাংলাদেশের আয়তন প্রায় ১,৪৭,৫৭০ বর্গ কিলোমিটার।",
+
+    "which UNESCO World Heritage site is located in Bangladesh?": "The Sundarbans, the largest mangrove forest, is a UNESCO World Heritage site in Bangladesh.",
+    "বাংলাদেশে কোনটি ইউনেস্কো বিশ্ব ঐতিহ্যবাহী স্থান?": "সুন্দরবন, বিশ্বের বৃহত্তম ম্যানগ্রোভ বন, বাংলাদেশে ইউনেস্কো বিশ্ব ঐতিহ্যবাহী স্থান।",
+
+    "which is the biggest river in Bangladesh?": "The Padma is the biggest river in Bangladesh.",
+    "বাংলাদেশের সবচেয়ে বড় নদী কোনটি?": "বাংলাদেশের সবচেয়ে বড় নদী পদ্মা।",
+
+    "when is Victory Day celebrated in Bangladesh?": "Victory Day is celebrated on December 16 in Bangladesh.",
+    "বাংলাদেশে বিজয় দিবস কবে পালন করা হয়?": "বাংলাদেশে বিজয় দিবস ১৬ ডিসেম্বর পালন করা হয়।",
+
+    "which country helped Bangladesh in the Liberation War of 1971?": "India helped Bangladesh in the Liberation War of 1971.",
+    "১৯৭১ সালের মুক্তিযুদ্ধে কোন দেশ বাংলাদেশকে সাহায্য করেছিল?": "ভারত ১৯৭১ সালের মুক্তিযুদ্ধে বাংলাদেশকে সাহায্য করেছিল।",
+
+    "what is the name of Bangladesh's parliament?": "The name of Bangladesh's parliament is Jatiyo Sangsad.",
+    "বাংলাদেশের জাতীয় সংসদের নাম কী?": "বাংলাদেশের জাতীয় সংসদের নাম জাতীয় সংসদ।",
+
+    "what is the name of the national airline of Bangladesh?": "The national airline of Bangladesh is Biman Bangladesh Airlines.",
+    "বাংলাদেশের জাতীয় এয়ারলাইনসের নাম কী?": "বাংলাদেশের জাতীয় এয়ারলাইনসের নাম বিমান বাংলাদেশ এয়ারলাইনস।",
+
+    "what is the national animal of Bangladesh?": "The national animal of Bangladesh is the Royal Bengal Tiger.",
+    "বাংলাদেশের জাতীয় প্রাণী কী?": "বাংলাদেশের জাতীয় প্রাণী রয়েল বেঙ্গল টাইগার।",
+
+    "which river is the lifeline of Bangladesh?": "The Brahmaputra River is considered the lifeline of Bangladesh.",
+    "বাংলাদেশের জীবনের উৎস হিসেবে কোন নদী পরিচিত?": "বাংলাদেশের জীবনের উৎস হিসেবে ব্রহ্মপুত্র নদ পরিচিত।",
+
+    "what is the most popular festival in Bangladesh?": "The most popular festival in Bangladesh is the Bengali New Year, Pohela Boishakh.",
+    "বাংলাদেশের সবচেয়ে জনপ্রিয় উৎসব কোনটি?": "বাংলাদেশের সবচেয়ে জনপ্রিয় উৎসব পহেলা বৈশাখ।",
+    "what is Bangladesh’s rank in terms of population size in the world?": "Bangladesh ranks 8th in terms of population size.",
+    "জনসংখ্যার দিক থেকে বাংলাদেশ পৃথিবীতে কততম স্থানে?": "জনসংখ্যার দিক থেকে বাংলাদেশ পৃথিবীতে অষ্টম স্থানে।",
+
+    "what type of climate does Bangladesh have?": "Bangladesh has a tropical monsoon climate.",
+    "বাংলাদেশের আবহাওয়া কেমন?": "বাংলাদেশে গ্রীষ্মমণ্ডলীয় মৌসুমি জলবায়ু রয়েছে।",
+
+    "what is the life expectancy in Bangladesh?": "The life expectancy in Bangladesh is around 73 years.",
+    "বাংলাদেশে গড় আয়ু কত?": "বাংলাদেশে গড় আয়ু প্রায় ৭৩ বছর।",
+
+    "who was the first female prime minister of Bangladesh?": "The first female prime minister of Bangladesh was Khaleda Zia.",
+    "বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী কে?": "বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী ছিলেন খালেদা জিয়া।",
+
+    "what is the name of the longest beach in Bangladesh?": "Cox’s Bazar is the longest beach in Bangladesh.",
+    "বাংলাদেশের দীর্ঘতম সমুদ্র সৈকতের নাম কী?": "বাংলাদেশের দীর্ঘতম সমুদ্র সৈকত কক্সবাজার।",
+
+    "which is the main agricultural product of Bangladesh?": "Rice is the main agricultural product of Bangladesh.",
+    "বাংলাদেশের প্রধান কৃষিজ পণ্য কী?": "বাংলাদেশের প্রধান কৃষিজ পণ্য ধান।",
+
+    "what is the largest division of Bangladesh by area?": "The largest division of Bangladesh by area is Chittagong.",
+    "বাংলাদেশের সবচেয়ে বড় বিভাগ কোনটি?": "বাংলাদেশের সবচেয়ে বড় বিভাগ চট্টগ্রাম।",
+
+    "which district is known as the 'City of Education' in Bangladesh?": "Comilla is known as the 'City of Education' in Bangladesh.",
+    "বাংলাদেশে কোন জেলা 'শিক্ষার শহর' নামে পরিচিত?": "বাংলাদেশে কুমিল্লা জেলা 'শিক্ষার শহর' নামে পরিচিত।",
+
+    "what is the name of the national parliament building architect?": "Louis I. Kahn was the architect of the national parliament building.",
+    "জাতীয় সংসদ ভবনের স্থপতির নাম কী?": "জাতীয় সংসদ ভবনের স্থপতি ছিলেন লুই আই. কাহন।",
+
+    "which port is the largest in Bangladesh?": "Chittagong port is the largest in Bangladesh.",
+    "বাংলাদেশের সবচেয়ে বড় বন্দর কোনটি?": "বাংলাদেশের সবচেয়ে বড় বন্দর চট্টগ্রাম।",
+
+    "what is the main export product of Bangladesh?": "The main export product of Bangladesh is ready-made garments.",
+    "বাংলাদেশের প্রধান রপ্তানি পণ্য কী?": "বাংলাদেশের প্রধান রপ্তানি পণ্য তৈরি পোশাক।",
+
+    "when is International Mother Language Day observed?": "International Mother Language Day is observed on February 21.",
+    "আন্তর্জাতিক মাতৃভাষা দিবস কবে পালন করা হয়?": "আন্তর্জাতিক মাতৃভাষা দিবস ২১ ফেব্রুয়ারি পালন করা হয়।",
+
+    "what is the name of Bangladesh's first satellite?": "Bangabandhu-1 is the name of Bangladesh's first satellite.",
+    "বাংলাদেশের প্রথম স্যাটেলাইটের নাম কী?": "বাংলাদেশের প্রথম স্যাটেলাইটের নাম বঙ্গবন্ধু-১।",
+
+    "what is the largest ethnic minority group in Bangladesh?": "The largest ethnic minority group in Bangladesh is the Chakma.",
+    "বাংলাদেশের বৃহত্তম সংখ্যালঘু জাতিগোষ্ঠী কোনটি?": "বাংলাদেশের বৃহত্তম সংখ্যালঘু জাতিগোষ্ঠী চাকমা।",
+
+    "what is the highest civilian award in Bangladesh?": "The highest civilian award in Bangladesh is the Independence Day Award.",
+    "বাংলাদেশের সর্বোচ্চ বেসামরিক পুরস্কার কী?": "বাংলাদেশের সর্বোচ্চ বেসামরিক পুরস্কার স্বাধীনতা পদক।",
+
+    "which district is famous for Hilsha fish?": "Chandpur district is famous for Hilsha fish.",
+    "কোন জেলা ইলিশ মাছের জন্য বিখ্যাত?": "চাঁদপুর জেলা ইলিশ মাছের জন্য বিখ্যাত।",
+  
+    "what is Bangladesh": "Bangladesh is a South Asian country located on the Bay of Bengal, bordered by India and Myanmar. It is the eighth-most populous country in the world, with over 160 million people. The capital and largest city is Dhaka.",
+    "what is the official language of Bangladesh": "The official language of Bangladesh is Bengali (Bangla).",
+    "what is the currency of Bangladesh": "The currency of Bangladesh is the Bangladeshi Taka (BDT).",
+    "what type of government does Bangladesh have": "Bangladesh has a parliamentary democracy, with a President as the ceremonial head of state and a Prime Minister as the head of government.",
+    "when did Bangladesh gain independence": "Bangladesh gained independence from Pakistan in 1971 following the Bangladesh Liberation War, after being part of Pakistan since 1947.",
+    "what is the geography of Bangladesh": "Bangladesh is primarily a low-lying country dominated by the Ganges-Brahmaputra Delta, making it prone to flooding, especially during the monsoon season.",
+    "what drives the economy of Bangladesh": "Bangladesh has a rapidly growing economy primarily driven by its textile and garment industries, which are major global exporters. Agriculture, particularly rice cultivation, also plays an essential role.",
+    "what progress has Bangladesh made": "Despite challenges like high population density and vulnerability to climate change, Bangladesh has made significant progress in education, healthcare, and poverty reduction.",
+    "what is the culture of Bangladesh": "Bangladesh is known for its rich culture, with a deep history in literature, music, and traditional celebrations.",
+    "what is photosynthesis": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen.",
+    "what is the atomic number": "The atomic number is the number of protons found in the nucleus of an atom, which determines the element's identity.",
+    "what is a black hole": "A black hole is a region in space where the gravitational pull is so strong that nothing, not even light, can escape from it.",
+    "what is the theory of relativity": "The theory of relativity, developed by Albert Einstein, includes the special theory of relativity and the general theory of relativity, describing the laws of physics in the presence of gravitational fields.",
+    "what is natural selection": "Natural selection is the process where organisms better adapted to their environment tend to survive and produce more offspring.",
+    "what is an enzyme": "An enzyme is a biological catalyst that speeds up chemical reactions in living organisms.",
+    "what is the pH scale": "The pH scale is a measure of how acidic or basic a solution is, ranging from 0 (very acidic) to 14 (very basic), with 7 being neutral.",
+    "what are DNA and RNA": "DNA (deoxyribonucleic acid) is the hereditary material in most organisms, while RNA (ribonucleic acid) is involved in protein synthesis and gene regulation.",
+    "what is the greenhouse effect": "The greenhouse effect is the process by which certain gases in Earth's atmosphere trap heat, keeping the planet warm enough to sustain life.",
+    "what are the three states of matter": "The three states of matter are solid, liquid, and gas, which differ in terms of molecular arrangement and energy levels.",
+    "what is the scientific method": "The scientific method is a systematic approach to investigation that includes observation, hypothesis formulation, experimentation, and analysis.",
+    "what is an ecosystem": "An ecosystem is a community of living organisms interacting with each other and their physical environment.",
+    "what is a chemical reaction": "A chemical reaction is a process that leads to the transformation of one set of chemical substances into another.",
+    "what is gravity": "Gravity is the force that attracts two bodies towards each other, proportional to their masses and inversely proportional to the square of the distance between them.",
+    "what is evolution": "Evolution is the process through which species change over time through genetic variation and natural selection.",
+    "what is a gene": "A gene is a segment of DNA that contains the instructions for the development and functioning of an organism.",
+    "what is the periodic table": "The periodic table is a tabular arrangement of chemical elements, organized by increasing atomic number, and grouped by similar properties.",
+    "what is an atom": "An atom is the smallest unit of an element, consisting of protons, neutrons, and electrons.",
+    "what is a vaccine": "A vaccine is a biological preparation that provides immunity against a specific infectious disease by stimulating the body's immune response.",
+    "what is climate change": "Climate change refers to significant changes in global temperatures and weather patterns over time, largely driven by human activities.",
+    "what is matter": "Matter is anything that has mass and takes up space, including solids, liquids, and gases.",
+    "what is the universe": "The universe encompasses all of space, time, matter, and energy, including galaxies, stars, planets, and all forms of life.",
+    "what are tectonic plates": "Tectonic plates are large sections of Earth's lithosphere that move and interact, causing earthquakes, volcanic activity, and continental drift.",
+    "what is an asteroid": "An asteroid is a small rocky body that orbits the Sun, primarily found in the asteroid belt between Mars and Jupiter.",
+    "what is a comet": "A comet is an icy body that releases gas or dust, forming a visible atmosphere and sometimes a tail when it approaches the Sun.",
+    "what is the Big Bang theory": "The Big Bang theory is the prevailing cosmological model explaining the origin of the universe, suggesting it began as a singularity and expanded.",
+    "what is the role of mitochondria": "Mitochondria are organelles in cells that produce energy through cellular respiration, often referred to as the powerhouses of the cell.",
+    "what is the function of chlorophyll": "Chlorophyll is a green pigment in plants that captures light energy for photosynthesis.",
+    "what is a neuron": "A neuron is a nerve cell that transmits electrical signals in the nervous system.",
+    "what is the theory of plate tectonics": "The theory of plate tectonics explains the movement of Earth's lithospheric plates and the geological processes associated with them.",
+    "what is a star": "A star is a luminous celestial body made of plasma, undergoing nuclear fusion and emitting light and heat.",
+    "what is an exoplanet": "An exoplanet is a planet located outside our solar system that orbits a star.",
+    "what is biodiversity": "Biodiversity refers to the variety of life on Earth, encompassing the diversity of species, ecosystems, and genetic variation.",
+    "what is the function of the heart": "The heart is a muscular organ that pumps blood throughout the body, supplying oxygen and nutrients to tissues.",
+    "what is the immune system": "The immune system is the body's defense mechanism against pathogens, including viruses and bacteria.",
+    "what is a chemical bond": "A chemical bond is the force that holds atoms together in a molecule, which can be ionic or covalent.",
+    "what is the theory of evolution by natural selection": "The theory of evolution by natural selection, proposed by Charles Darwin, explains how species evolve through the survival and reproduction of individuals with advantageous traits.",
+    "what is the function of red blood cells": "Red blood cells transport oxygen from the lungs to the body tissues and return carbon dioxide to the lungs.",
+    "what is an ion": "An ion is an atom or molecule that has a net electrical charge due to the loss or gain of one or more electrons.",
+    "what is a polymer": "A polymer is a large molecule composed of repeating structural units called monomers, typically connected by covalent chemical bonds.",
+    "what is the electromagnetic spectrum": "The electromagnetic spectrum is the range of all types of electromagnetic radiation, including radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon, which can be tested through experimentation.",
+    "what is a supernova": "A supernova is a powerful and luminous explosion that occurs when a star exhausts its nuclear fuel and collapses.",
+    "what is homeostasis": "Homeostasis is the process by which living organisms maintain a stable internal environment despite changes in external conditions.",
+    "what is the scientific classification system": "The scientific classification system organizes living organisms into hierarchical categories, including domain, kingdom, phylum, class, order, family, genus, and species.",
+    "what is the function of the liver": "The liver is an organ that processes nutrients, detoxifies harmful substances, and produces bile for digestion.",
+    "what is a hypothesis": "A hypothesis is a testable prediction or educated guess about the relationship between two variables.",
+    "what is a neutron star": "A neutron star is the remnant core of a massive star that has exploded in a supernova, composed mainly of tightly packed neutrons.",
+    "what is an antibiotic": "An antibiotic is a type of medication used to treat bacterial infections by killing or inhibiting the growth of bacteria.",
+    "what is a genome": "A genome is the complete set of genetic material in an organism, including all of its genes.",
+    "what is a biome": "A biome is a large ecological area on Earth, characterized by specific climate conditions, flora, and fauna.",
+    "what is the function of the kidneys": "The kidneys are organs that filter waste products from the blood and regulate fluid balance in the body.",
+    "what is the difference between mitosis and meiosis": "Mitosis is the process of cell division that results in two identical daughter cells, while meiosis is the process that produces gametes with half the number of chromosomes.",
+    "what is the law of conservation of mass": "The law of conservation of mass states that mass cannot be created or destroyed in a chemical reaction; it can only change forms.",
+    "what is the function of the respiratory system": "The respiratory system is responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide.",
+    "what is an ecosystem": "An ecosystem is a community of living organisms interacting with their physical environment, including both biotic and abiotic factors.",
+    "what is the carbon cycle": "The carbon cycle is the process by which carbon is exchanged between the atmosphere, land, and oceans, involving processes such as photosynthesis and respiration.",
+    "what is a gravitational wave": "A gravitational wave is a ripple in spacetime caused by the acceleration of massive objects, predicted by Einstein's general theory of relativity.",
+    "what is the function of the brain": "The brain is the central organ of the nervous system, responsible for processing sensory information, controlling movement, and regulating bodily functions.",
+    "what is the role of ribosomes": "Ribosomes are cellular structures that synthesize proteins by translating messenger RNA (mRNA).",
+    "what is a wavelength": "A wavelength is the distance between successive crests (or troughs) of a wave, often used to describe electromagnetic waves.",
+    "what is a tissue": "A tissue is a group of cells that work together to perform a specific function in an organism.",
+    "what is the ozone layer": "The ozone layer is a region of Earth's stratosphere that contains a high concentration of ozone (O₃) and protects the planet from harmful ultraviolet (UV) radiation.",
+    "what is the function of the digestive system": "The digestive system breaks down food into nutrients that the body can absorb and use for energy, growth, and repair.",
+    "what is a glacier": "A glacier is a large, slow-moving mass of ice formed from compacted snow, found in polar regions and high mountains.",
+    "what is biodiversity": "Biodiversity refers to the variety of living organisms in a particular habitat or ecosystem, including the diversity of species, genetic variation, and ecosystem diversity.",
+    "what is a theory": "A scientific theory is a well-substantiated explanation of an aspect of the natural world, based on a body of evidence and subject to testing and revision.",
+    "what is the scientific name for humans": "The scientific name for humans is Homo sapiens.",
+    "what is a comet made of": "A comet is made up of ice, dust, and rocky material, often containing organic compounds.",
+    "what is the greenhouse effect": "The greenhouse effect is the warming of Earth's surface due to the trapping of heat by greenhouse gases in the atmosphere.",
+    "what is a fossil": "A fossil is the preserved remains or traces of ancient organisms, providing evidence of past life.",
+    "what is the function of the skin": "The skin serves as a protective barrier for the body, regulates temperature, and enables the sense of touch.",
+    "what is the role of carbohydrates in the body": "Carbohydrates are the body's primary source of energy, providing fuel for cellular functions.",
+    "what is a hypothesis": "A hypothesis is a testable statement that predicts the outcome of a scientific experiment or observation.",
+    "what is a solar eclipse": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking the Sun's light either partially or completely.",
+    "what is an organism": "An organism is a living entity that can grow, reproduce, and respond to stimuli, which can be unicellular or multicellular.",
+    "what is a lipid": "A lipid is a group of hydrophobic organic molecules, including fats, oils, and phospholipids, that are important for energy storage and cell structure.",
+    "what is a scientific law": "A scientific law is a statement that describes a consistent and universal relationship observed in nature, often expressed mathematically.",
+    "what is a hypothesis": "A hypothesis is an educated guess based on existing knowledge that can be tested through experimentation.",
+    "what is the function of platelets": "Platelets are small cell fragments in the blood that help with clotting and wound healing.",
+    "what is the greenhouse effect": "The greenhouse effect is the warming of the Earth's surface caused by the trapping of heat by greenhouse gases in the atmosphere.",
+    "what is an isotope": "An isotope is a variant of an element that has the same number of protons but a different number of neutrons.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon, based on limited evidence and requiring further investigation.",
+    "what is the function of the endocrine system": "The endocrine system produces hormones that regulate metabolism, growth, reproduction, and mood.",
+    "what is the difference between speed and velocity": "Speed is a scalar quantity representing how fast an object is moving, while velocity is a vector quantity that includes both speed and direction.",
+    "what is the function of the spleen": "The spleen filters blood, removing old or damaged red blood cells, and helps fight infections.",
+    "what is a conductor": "A conductor is a material that allows the flow of electrical current, typically metals like copper and aluminum.",
+    "what is the role of chlorophyll": "Chlorophyll is a pigment in plants that absorbs sunlight for photosynthesis, allowing them to convert light energy into chemical energy.",
+    "what is a lunar eclipse": "A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon.",
+    "what is an electron": "An electron is a subatomic particle with a negative charge that orbits the nucleus of an atom.",
+    "what is the structure of DNA": "DNA is a double helix composed of two strands of nucleotides, with complementary base pairing (adenine with thymine and cytosine with guanine).",
+    "what is the function of the pancreas": "The pancreas produces digestive enzymes and hormones, including insulin, which regulates blood sugar levels.",
+    "what is a hypothesis": "A hypothesis is a statement that can be tested through research and experimentation to determine its validity.",
+    "what is the speed of light": "The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per second).",
+    "what is an atom": "An atom is the basic unit of matter, consisting of a nucleus containing protons and neutrons, surrounded by electrons.",
+    "what is the role of the circulatory system": "The circulatory system transports blood, nutrients, gases, and waste products throughout the body.",
+    "what is a biome": "A biome is a large geographic area characterized by specific climate conditions, plants, and animals, such as forests, deserts, and tundras.",
+    "what is a mineral": "A mineral is a naturally occurring inorganic substance with a definite chemical composition and crystalline structure.",
+    "what is the function of the gallbladder": "The gallbladder stores and concentrates bile produced by the liver, releasing it into the small intestine to aid in digestion.",
+    "what is an autoimmune disease": "An autoimmune disease occurs when the immune system mistakenly attacks the body's own healthy cells and tissues.",
+    "what is a chemical formula": "A chemical formula represents the composition of a substance, indicating the types and numbers of atoms present.",
+    "what is a solar system": "A solar system is a collection of celestial bodies, including a star and the planets, moons, asteroids, and comets that orbit it.",
+    "what is the difference between plant and animal cells": "Plant cells have a cell wall and chloroplasts for photosynthesis, while animal cells do not have these structures.",
+    "what is a galaxy": "A galaxy is a massive system of stars, stellar remnants, gas, dust, and dark matter, bound together by gravity.",
+    "what is the difference between mass and weight": "Mass is the amount of matter in an object, while weight is the force exerted on an object due to gravity.",
+    "what is a chemical change": "A chemical change is a transformation that alters the chemical composition of a substance, resulting in the formation of new substances.",
+    "what is a black hole": "A black hole is a region in space with a gravitational pull so strong that nothing can escape from it, not even light.",
+    "what is an aurora": "An aurora is a natural light display in the Earth's sky, predominantly seen in polar regions, caused by the interaction of solar wind with the Earth's magnetic field.",
+    "what is the function of the small intestine": "The small intestine is responsible for the digestion and absorption of nutrients from food.",
+    "what is an atom": "An atom is the smallest unit of matter that retains the properties of an element.",
+    "what is the function of the large intestine": "The large intestine absorbs water and electrolytes from indigestible food matter and compacts it into feces for excretion.",
+    "what is a hypothesis": "A hypothesis is a testable prediction made based on observations and prior knowledge.",
+    "what is a gene": "A gene is a segment of DNA that contains the instructions for building proteins, which determine an organism's traits.",
+    "what is the function of the thyroid gland": "The thyroid gland produces hormones that regulate metabolism, energy levels, and growth.",
+    "what is the role of the nervous system": "The nervous system coordinates and controls the body's responses to internal and external stimuli.",
+    "what is the process of digestion": "Digestion is the breakdown of food into smaller components that can be absorbed by the body, involving both mechanical and chemical processes.",
+    "what is the role of the immune system": "The immune system defends the body against pathogens, recognizing and eliminating harmful microorganisms.",
+    "what is a hypothesis": "A hypothesis is an educated guess or prediction that can be tested through scientific investigation.",
+    "what is a carbohydrate": "A carbohydrate is an organic compound made of carbon, hydrogen, and oxygen, serving as a major energy source for the body.",
+    "what is a protein": "A protein is a macromolecule composed of amino acids that performs a variety of functions in the body, including structural, enzymatic, and regulatory roles.",
+    "what is a chemical reaction": "A chemical reaction is a process that involves the transformation of reactants into products, involving breaking and forming chemical bonds.",
+    "what is the role of insulin": "Insulin is a hormone produced by the pancreas that regulates blood sugar levels by facilitating the uptake of glucose by cells.",
+    "what is a neutron": "A neutron is a subatomic particle found in the nucleus of an atom, with no electric charge.",
+    "what is the role of the cell membrane": "The cell membrane is a protective barrier that regulates the movement of substances in and out of the cell.",
+    "what is a stem cell": "A stem cell is an undifferentiated cell that has the potential to develop into various cell types in the body.",
+    "what is the difference between weather and climate": "Weather refers to short-term atmospheric conditions, while climate is the long-term average of weather patterns in a region.",
+    "what is a supernova": "A supernova is a powerful explosion that occurs at the end of a star's life cycle, often resulting in the creation of neutron stars or black holes.",
+    "what is a hypothesis": "A hypothesis is a statement that can be tested through observation and experimentation.",
+    "what is an allele": "An allele is a variant form of a gene that may result in different traits or characteristics.",
+    "what is a chemical equation": "A chemical equation is a symbolic representation of a chemical reaction, showing the reactants and products along with their quantities.",
+    "what is an aquifer": "An aquifer is a geological formation that can store and transmit groundwater, providing a source of fresh water.",
+    "what is a eukaryotic cell": "A eukaryotic cell is a type of cell that contains a nucleus and membrane-bound organelles, found in plants, animals, fungi, and protists.",
+    "what is a prokaryotic cell": "A prokaryotic cell is a simple, unicellular organism without a nucleus or membrane-bound organelles, such as bacteria.",
+    "what is a tsunami": "A tsunami is a series of large ocean waves caused by underwater earthquakes, volcanic eruptions, or landslides.",
+    "what is a catalyst": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process.",
+    "what is the function of the skeletal system": "The skeletal system provides structural support, protects vital organs, and facilitates movement in the body.",
+    "what is an electromagnetic wave": "An electromagnetic wave is a wave that propagates through space and consists of oscillating electric and magnetic fields.",
+    "what is a fossil fuel": "Fossil fuels are natural substances formed from the remains of ancient plants and animals, including coal, oil, and natural gas.",
+    "what is the purpose of the scientific method": "The scientific method provides a systematic approach for conducting research and obtaining reliable results.",
+    "what is the function of the reticular formation": "The reticular formation is a network of neurons in the brainstem that regulates wakefulness, arousal, and attention.",
+    "what is a vector quantity": "A vector quantity is a physical quantity that has both magnitude and direction, such as velocity and force.",
+    "what is a scalar quantity": "A scalar quantity is a physical quantity that has only magnitude, such as temperature and mass.",
+    "what is a gene mutation": "A gene mutation is a change in the DNA sequence of a gene, which can lead to changes in the function of the protein produced.",
+    "what is the function of the cerebellum": "The cerebellum is responsible for coordinating voluntary movements, balance, and posture.",
+    "what is the role of testosterone": "Testosterone is a hormone that plays a key role in the development of male reproductive tissues and the maintenance of male secondary sexual characteristics.",
+    "what is a meteor": "A meteor is a small fragment of a comet or asteroid that burns up upon entering Earth's atmosphere, creating a streak of light known as a shooting star.",
+    "what is the function of the lungs": "The lungs are responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide.",
+    "what is a biome": "A biome is a large ecological area characterized by specific climate, flora, and fauna.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon that can be tested through experimentation.",
+    "what is a chemical reaction": "A chemical reaction involves the rearrangement of atoms to transform reactants into products.",
+    "what is a wave": "A wave is a disturbance that transfers energy through space and matter, characterized by its amplitude, wavelength, and frequency.",
+    "what is a pulsar": "A pulsar is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation.",
+    "what is the purpose of chloroplasts": "Chloroplasts are organelles in plant cells that carry out photosynthesis, converting light energy into chemical energy.",
+    "what is the function of the endoplasmic reticulum": "The endoplasmic reticulum is an organelle involved in protein and lipid synthesis, with rough ER studded with ribosomes and smooth ER lacking ribosomes.",
+    "what is the role of the hypothalamus": "The hypothalamus regulates various physiological processes, including temperature, hunger, thirst, and sleep-wake cycles.",
+    "what is the function of neurotransmitters": "Neurotransmitters are chemical messengers that transmit signals across synapses between neurons.",
+    "what is a tectonic plate": "A tectonic plate is a large section of the Earth's lithosphere that moves and interacts with other plates, causing geological phenomena such as earthquakes and volcanic eruptions.",
+    "what is the role of vitamin D": "Vitamin D is essential for calcium absorption and bone health, as well as supporting immune function.",
+    "what is a chemical bond": "A chemical bond is the force that holds atoms together in a molecule, which can be covalent, ionic, or metallic.",
+    "what is a star's life cycle": "A star's life cycle includes stages such as formation, main sequence, red giant or supergiant, and death, which may result in a white dwarf, neutron star, or black hole.",
+    "what is the purpose of the cell wall": "The cell wall provides structural support and protection to plant cells, fungi, and some bacteria.",
+    "what is the difference between plant and animal cells": "Plant cells have cell walls, chloroplasts, and large vacuoles, while animal cells do not have these structures.",
+    "what is the function of the Golgi apparatus": "The Golgi apparatus modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles.",
+    "what is a hypothesis": "A hypothesis is a testable prediction made based on prior knowledge and observations.",
+    "what is a solstice": "A solstice is an astronomical event that occurs twice a year when the Sun reaches its highest or lowest point in the sky at noon, marking the longest and shortest days.",
+    "what is a tidal wave": "A tidal wave is a large ocean wave caused by the gravitational pull of the moon and sun, leading to high and low tides.",
+    "what is the primary function of DNA": "The primary function of DNA is to store and transmit genetic information that guides the development and functioning of living organisms.",
+    "what is the role of the cell cycle": "The cell cycle is the series of phases that a cell goes through to grow and divide, including interphase and mitotic phase.",
+    "what is the function of the adrenal glands": "The adrenal glands produce hormones that regulate metabolism, immune response, and stress management.",
+    "what is a solar flare": "A solar flare is a sudden burst of energy on the surface of the Sun, releasing large amounts of radiation into space.",
+    "what is the difference between speed and velocity": "Speed is a scalar quantity measuring how fast an object moves, while velocity is a vector quantity that includes direction.",
+    "what is the role of water in biological systems": "Water is essential for life, serving as a solvent, temperature regulator, and medium for biochemical reactions.",
+    "what is a comet": "A comet is an icy celestial body that, when close to the Sun, produces a visible atmosphere and sometimes a tail.",
+    "what is a galaxy": "A galaxy is a vast system of stars, stellar remnants, interstellar gas, dust, and dark matter, bound together by gravity.",
+    "what is an organelle": "An organelle is a specialized subunit within a cell that has a specific function, such as the nucleus or mitochondria.",
+    "what is a neutron star": "A neutron star is the collapsed core of a massive star, consisting primarily of neutrons and incredibly dense.",
+    "what is the process of fermentation": "Fermentation is a metabolic process that converts sugar to acids, gases, or alcohol in the absence of oxygen.",
+    "what is the role of the cerebrum": "The cerebrum is responsible for higher brain functions, including thought, memory, and voluntary muscle movement.",
+    "what is a star": "A star is a massive, luminous sphere of plasma held together by gravity, undergoing nuclear fusion in its core.",
+    "what is an electron": "An electron is a negatively charged subatomic particle that orbits the nucleus of an atom.",
+    "what is a lunar eclipse": "A lunar eclipse occurs when the Earth passes between the Sun and the Moon, blocking sunlight from reaching the Moon.",
+    "what is a biome": "A biome is a large geographic area characterized by specific climate and ecological conditions, such as a rainforest or desert.",
+    "what is the function of the lymphatic system": "The lymphatic system helps maintain fluid balance, absorbs fats from the digestive system, and supports immune function.",
+    "what is the primary role of ribosomes": "Ribosomes are cellular structures that synthesize proteins by translating messenger RNA (mRNA).",
+    "what is a supernova": "A supernova is a powerful explosion that occurs at the end of a massive star's life cycle, often resulting in a neutron star or black hole.",
+    "what is the purpose of the mitochondria": "Mitochondria are known as the powerhouses of the cell, producing adenosine triphosphate (ATP) through cellular respiration.",
+    "what is the role of the immune system": "The immune system defends the body against pathogens and foreign substances, providing immunity.",
+    "what is the structure of an atom": "An atom consists of a nucleus containing protons and neutrons, surrounded by electrons in energy levels or shells.",
+    "what is the difference between a plant and an animal cell": "Plant cells have a cell wall, chloroplasts, and a large central vacuole, while animal cells have a flexible cell membrane and small vacuoles.",
+    "what is the function of the muscular system": "The muscular system allows for movement of the body, maintains posture, and produces heat through muscle contractions.",
+    "what is the role of the cell membrane": "The cell membrane acts as a barrier, controlling the movement of substances in and out of the cell.",
+    "what is the function of the digestive system": "The digestive system breaks down food into nutrients for the body to absorb and use for energy and growth.",
+    "what is an ecosystem": "An ecosystem is a community of living organisms interacting with their physical environment, including both biotic and abiotic factors.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon, based on prior knowledge and research, that can be tested.",
+    "what is the role of the liver": "The liver detoxifies chemicals, metabolizes drugs, produces bile, and helps regulate blood sugar levels.",
+    "what is a chemical compound": "A chemical compound is a substance formed from two or more elements chemically bonded together in a fixed ratio.",
+    "what is an exoplanet": "An exoplanet is a planet located outside our solar system, orbiting a star other than the Sun.",
+    "what is the primary role of the kidneys": "The kidneys filter blood, remove waste products, and regulate water and electrolyte balance in the body.",
+    "what is a covalent bond": "A covalent bond is a type of chemical bond formed when two atoms share one or more pairs of electrons.",
+    "what is the function of the respiratory system": "The respiratory system is responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide.",
+    "what is a mineral": "A mineral is a naturally occurring inorganic solid with a specific chemical composition and crystalline structure.",
+    "what is a virus": "A virus is a small infectious agent that replicates only inside the living cells of an organism.",
+    "what is the structure of the human brain": "The human brain consists of various regions, including the cerebrum, cerebellum, and brainstem, each responsible for different functions.",
+    "what is a black hole": "A black hole is a region of spacetime exhibiting gravitational acceleration so strong that nothing can escape from it.",
+    "what is a hypothesis": "A hypothesis is a statement made on the basis of limited evidence as a starting point for further investigation.",
+    "what is the function of the skeletal system": "The skeletal system provides support, protects vital organs, facilitates movement, and produces blood cells.",
+    "what is the role of the hypothalamus": "The hypothalamus regulates many bodily functions, including hunger, thirst, sleep, and temperature control.",
+    "what is a cell": "A cell is the basic unit of life, capable of carrying out all essential processes for living organisms.",
+    "what is the role of chlorophyll in photosynthesis": "Chlorophyll absorbs light energy from the sun, which is used to convert carbon dioxide and water into glucose during photosynthesis.",
+    "what is a force": "A force is an interaction that causes an object to accelerate, change direction, or change shape.",
+    "what is an enzyme": "An enzyme is a biological catalyst that speeds up chemical reactions in living organisms.",
+    "what is the structure of a protein": "A protein is made up of one or more long chains of amino acids, folded into a specific three-dimensional shape.",
+    "what is the function of the heart": "The heart pumps blood throughout the body, supplying oxygen and nutrients to tissues while removing waste products.",
+    "what is the role of the ozone layer": "The ozone layer protects life on Earth by absorbing most of the Sun's harmful ultraviolet radiation.",
+    "what is the function of the gallbladder": "The gallbladder stores and concentrates bile, which helps in the digestion of fats.",
+    "what is an atom": "An atom is the basic building block of matter, consisting of protons, neutrons, and electrons.",
+    "what is a chemical reaction": "A chemical reaction involves the transformation of substances through the breaking and forming of chemical bonds.",
+    "what is a cell membrane": "The cell membrane is a biological barrier that separates and protects the interior of the cell from its external environment.",
+    "what is the purpose of the scientific method": "The scientific method is a systematic process used to investigate natural phenomena, formulate hypotheses, and gather evidence.",
+    "what is a neuron": "A neuron is a specialized cell that transmits nerve impulses, consisting of a cell body, dendrites, and an axon.",
+    "what is the role of the cell wall": "The cell wall provides structural support and protection to plant cells, giving them shape and rigidity.",
+    "what is the function of the immune system": "The immune system protects the body from infections and diseases by identifying and attacking pathogens.",
+    "what is the difference between eukaryotic and prokaryotic cells": "Eukaryotic cells have a nucleus and organelles, while prokaryotic cells do not have a nucleus or membrane-bound organelles.",
+    "what is a scientific law": "A scientific law is a statement based on repeated experimental observations that describes an aspect of the universe.",
+    "what is a glacier": "A glacier is a massive body of dense ice that flows under its own weight, formed from accumulated snowfall over time.",
+    "what is a meteorite": "A meteorite is a solid fragment of a meteoroid that survives its passage through the Earth's atmosphere and lands on the surface.",
+    "what is a biome": "A biome is a large geographical area characterized by specific climate conditions, vegetation, and wildlife.",
+    "what is a solar eclipse": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, temporarily blocking the Sun's light.",
+    "what is a cell": "A cell is the basic unit of life, capable of performing all the functions necessary for life.",
+    "what is a comet": "A comet is an icy celestial body that, when close to the Sun, produces a visible atmosphere and sometimes a tail.",
+    "what is an element": "An element is a pure substance made up of only one type of atom, characterized by its atomic number.",
+    "what is a wave": "A wave is a disturbance that transfers energy through matter or space, characterized by wavelength, frequency, and amplitude.",
+    "what is a force": "A force is a push or pull acting on an object, measured in Newtons (N).",
+    "what is a virus": "A virus is a microscopic infectious agent that can only replicate inside the living cells of an organism.",
+    "what is the role of mitochondria": "Mitochondria are organelles that generate adenosine triphosphate (ATP) through cellular respiration, providing energy to the cell.",
+    "what is the function of the skeletal system": "The skeletal system provides support, protects vital organs, and allows for movement.",
+    "what is the purpose of the scientific method": "The scientific method is a systematic approach to inquiry that involves observation, hypothesis formulation, experimentation, and analysis.",
+    "what is a chromosome": "A chromosome is a thread-like structure made of DNA and protein that carries genetic information.",
+    "what is a wavelength": "A wavelength is the distance between successive crests or troughs of a wave, often used to describe electromagnetic radiation.",
+    "what is a natural disaster": "A natural disaster is a catastrophic event that occurs as a result of natural processes of the Earth, such as earthquakes, floods, or hurricanes.",
+    "what is an isotope": "An isotope is a variant of a chemical element that has the same number of protons but a different number of neutrons.",
+    "what is an acid": "An acid is a substance that donates protons or hydrogen ions in a chemical reaction, typically having a sour taste.",
+    "what is a gene": "A gene is a unit of heredity made up of DNA, responsible for carrying genetic information and determining traits.",
+    "what is the function of the large intestine": "The large intestine absorbs water and electrolytes from undigested food and compacts waste into feces for excretion.",
+    "what is a hypothesis": "A hypothesis is a testable statement or prediction about the relationship between variables in an experiment.",
+    "what is a solar system": "A solar system is a collection of celestial bodies, including a star and the planets, moons, and other objects that orbit it.",
+    "what is the role of the nervous system": "The nervous system controls and coordinates bodily functions by transmitting signals between different parts of the body.",
+    "what is an organ": "An organ is a group of tissues that work together to perform a specific function in the body.",
+    "what is an ecosystem": "An ecosystem is a community of living organisms interacting with each other and their environment.",
+    "what is a neutron": "A neutron is a subatomic particle found in the nucleus of an atom, with no electrical charge.",
+    "what is a solar wind": "Solar wind is a stream of charged particles released from the Sun's atmosphere, affecting space weather and the Earth's magnetic field.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon, based on limited evidence and requiring further investigation.",
+    "what is a planet": "A planet is a celestial body that orbits a star, is spherical in shape, and has cleared its orbital path of other debris.",
+    "what is the function of the endocrine system": "The endocrine system regulates bodily functions through hormones secreted by glands.",
+    "what is a hypothesis": "A hypothesis is a proposed explanation for a phenomenon that can be tested through experimentation.",
+    "what is a solution": "A solution is a homogeneous mixture of two or more substances, where one substance is dissolved in another.",
+    "what is a molecule": "A molecule is a group of two or more atoms bonded together, representing the smallest fundamental unit of a chemical compound.",
+    "what is a compound": "A compound is a substance formed when two or more different elements chemically combine in fixed proportions.",
+    "what is a quasar": "A quasar is an extremely bright and distant celestial object powered by a supermassive black hole at its center.",
+    "what is the role of photosynthesis": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose.",
+    "what is a tectonic plate": "A tectonic plate is a massive slab of Earth's lithosphere that moves and interacts with other plates, causing geological activity.",
+    "what is the role of the sun in the solar system": "The Sun provides light and heat, influencing the orbits and climates of the planets and other celestial bodies in the solar system.",
+	
+    "সূর্যের কেন্দ্রিকতার তত্ত্ব কি?": "সূর্যের কেন্দ্রিকতার তত্ত্ব, যা হেলিওসেন্ট্রিজম নামে পরিচিত, দাবি করে যে সূর্য আমাদের সৌরজগতের কেন্দ্রস্থল এবং সমস্ত গ্রহ সূর্যকে কেন্দ্র করে আবর্তিত হয়।",
+    "জীবাণু কি?": "জীবাণু হল একটি ক্ষুদ্র জীবাণু যা মানুষের শরীরের মধ্যে সংক্রমণ ঘটাতে পারে।",
+    "অণু কি?": "অণু হল দুই বা ততোধিক পরমাণুর সংযুক্তি, যা একটি রাসায়নিক যৌগের ক্ষুদ্রতম ইউনিট।",
+    "জেনেটিক প্রকৌশল কি?": "জেনেটিক প্রকৌশল হল একটি বিজ্ঞান শাখা যা জিনের পরিবর্তন বা পরিচালনার মাধ্যমে জীবদের বৈশিষ্ট্য পরিবর্তন করে।",
+    "পদার্থবিজ্ঞান কি?": "পদার্থবিজ্ঞান হল একটি বিজ্ঞান শাখা যা পদার্থ এবং শক্তির আচরণ ও সম্পর্ক নিয়ে আলোচনা করে।",
+    "পৃথিবীর আকৃতি কি?": "পৃথিবী একটি গড়নাকার (জিওড) আকৃতির, যা সামান্যভাবে সমতল এবং সমকেন্দ্রিত।",
+    "অক্সিজেনের ভূমিকা কি?": "অক্সিজেন হল একটি গ্যাস যা জীবনের জন্য অপরিহার্য এবং শ্বাস নেওয়ার জন্য প্রয়োজন।",
+    "প্রাণীর কোষের কাঠামো কি?": "প্রাণীর কোষগুলি একটি সেল মেমব্রেন, সাইটোপ্লাজম এবং নিউক্লিয়াস নিয়ে গঠিত।",
+    "জলবায়ু পরিবর্তন কি?": "জলবায়ু পরিবর্তন হল দীর্ঘমেয়াদী জলবায়ু পরিবর্তন, যা মানুষের কার্যকলাপের কারণে ঘটে।",
+    "ভূমিকম্প কি?": "ভূমিকম্প হল পৃথিবীর পৃষ্ঠের দিক থেকে ঘটে যাওয়া একটি শক্তিশালী কম্পন।",
+    "তাপমাত্রা কি?": "তাপমাত্রা হল একটি শারীরিক পরিমাণ যা একটি পদার্থের তাপীয় অবস্থা নির্দেশ করে।",
+    "ম্যাগনেটিজম কি?": "ম্যাগনেটিজম হল একটি শক্তি যা লোহার মতো কিছু পদার্থকে আকর্ষণ করে।",
+    "নিউট্রন কি?": "নিউট্রন হল একটি পরমাণু অংশ যা কোনো বৈদ্যুতিক চার্জ ধারণ করে না এবং নিউক্লিয়াসে অবস্থিত।",
+    "জীবন কি?": "জীবন হল সেই বৈশিষ্ট্য যা জীবদের অন্য সব কিছুর থেকে আলাদা করে, যেমন বৃদ্ধি, সঞ্চালন, প্রতিক্রিয়া এবং উৎপাদন।",
+    "গ্রহ কি?": "গ্রহ হল একটি বৃহৎ জ্যোতিষ্ক যা একটি নক্ষত্রের চারপাশে আবর্তিত হয়।",
+    "জীবনের মৌলিক একক কি?": "কোষ হল জীবনের মৌলিক একক, যা সমস্ত জীবের জন্য প্রধান কাঠামো।",
+    "পানি কি?": "পানি একটি অত্যাবশ্যক তরল যা জীবনের জন্য অপরিহার্য এবং জীবাণু সৃষ্টির জন্য সহায়ক।",
+    "দূরবীন কি?": "দূরবীন একটি অপটিক্যাল ডিভাইস যা দূরবর্তী বস্তুর ছবি স্পষ্ট করে।",
+    "পরমাণু কি?": "পরমাণু হল পদার্থের মৌলিক একক যা প্রোটন, নিউট্রন এবং ইলেকট্রনের সমন্বয়ে গঠিত।",
+    "রসায়ন কি?": "রসায়ন হল একটি বিজ্ঞান শাখা যা পদার্থের গঠন, বৈশিষ্ট্য এবং পরিবর্তনের অধ্যয়ন করে।",
+    "ফসিল কি?": "ফসিল হল প্রাচীন জীবিত জীবের অবশেষ যা ভূতাত্ত্বিক সময়ে সংরক্ষিত হয়েছে।",
+    "সৌরজগতের নক্ষত্র কী?": "সৌরজগতের নক্ষত্রগুলি সূর্যকে কেন্দ্র করে আবর্তিত হয় এবং গ্রহ, উপগ্রহ ও অন্যান্য মহাজাগতিক বস্তুর জন্য প্রধান শক্তির উৎস।",
+    "ম্যাগনেটিক ফিল্ড কি?": "ম্যাগনেটিক ফিল্ড একটি পরিবাহী উপাদান দ্বারা তৈরি একটি শক্তি ক্ষেত্র যা লোহার মতো পদার্থকে আকর্ষণ করে।",
+    "প্রদূষণ কি?": "প্রদূষণ হল পরিবেশে অযাচিত পদার্থ বা শক্তির অতিরিক্ত উপস্থিতি।",
+    "ছবির প্রতিফলন কি?": "ছবির প্রতিফলন হল একটি স্তর বা পৃষ্ঠে একটি ইমেজের প্রতিফলন।",
+    "পিএইচ মান কি?": "পিএইচ মান একটি দ্রবণের অ্যাসিডিটি বা ক্ষারিতা নির্দেশ করে।",
+    "ক্লোরোপ্লাস্টের ভূমিকা কি?": "ক্লোরোপ্লাস্ট হল প্ল্যান্ট কোষের অঙ্গাণু যা ফটোসিন্থেসিসের জন্য দায়ী।",
+    "থার্মাল কনডাকটিভিটি কি?": "থার্মাল কনডাকটিভিটি হল একটি পদার্থের মাধ্যমে তাপের প্রবাহের ক্ষমতা।",
+    "সৌর শক্তি কি?": "সৌর শক্তি হল সূর্যের থেকে প্রাপ্ত শক্তি যা পরিবেশগতভাবে পরিচ্ছন্ন।",
+    "ফোটন কি?": "ফোটন হল আলোর একটি মৌলিক কণিকা যা শক্তি বহন করে।",
+    "জলচক্র কি?": "জলচক্র হল পানির প্রাকৃতিক সঞ্চালন প্রক্রিয়া যা বাষ্পীকরণ, সংকোচন এবং বৃষ্টির মাধ্যমে ঘটে।",
+    "গ্রিনহাউস গ্যাস কি?": "গ্রিনহাউস গ্যাস হল গ্যাস যা পৃথিবীর বায়ুমণ্ডলে তাপ ধারণ করে এবং গ্লোবাল ওয়ার্মিংকে উদ্দীপিত করে।",
+    "অ্যান্টিবায়োটিক কি?": "অ্যান্টিবায়োটিক হল একটি পদার্থ যা ব্যাকটেরিয়া সংক্রমণের বিরুদ্ধে কার্যকর।",
+    "গ্লোবাল ওয়ার্মিং কি?": "গ্লোবাল ওয়ার্মিং হল পৃথিবীর তাপমাত্রা বাড়ানোর ফলে সৃষ্ট একটি সমস্যা, যা জলবায়ু পরিবর্তন ঘটায়।",
+    "শ্বাসপ্রশ্বাসের প্রক্রিয়া কি?": "শ্বাসপ্রশ্বাসের প্রক্রিয়ায় জীবের দেহ অক্সিজেন গ্রহণ করে এবং কার্বন ডাই অক্সাইড নির্গত করে।",
+    "জীবাণুবিজ্ঞান কি?": "জীবাণুবিজ্ঞান হল জীবনের গবেষণা, যার মধ্যে জীবিত এবং অজীবিত জীবের অধ্যয়ন অন্তর্ভুক্ত।",
+    "পৃথিবীর কক্ষে কতটি মহাদেশ আছে?": "পৃথিবীর কক্ষে সাতটি মহাদেশ আছে।",
+    "টলমল কি?": "টলমল হল একটি প্রাকৃতিক পদার্থ যা জল বা বায়ুর গতির কারণে সৃষ্টি হয়।",
+    "রহস্যময় পাথর কি?": "রহস্যময় পাথর হল একটি ধাতব বা অম্ল পাথর যা বৈজ্ঞানিক গবেষণার জন্য গুরুত্বপূর্ণ।",
+    "মাইক্রোবায়োলজি কি?": "মাইক্রোবায়োলজি হল মাইক্রোজীব, যেমন ব্যাকটেরিয়া, ভাইরাস, এবং ছত্রাকের অধ্যয়ন।",
+    "ডিএনএ কি?": "ডিএনএ হল জিনগত উপাদান যা জীবের বংশগতির জন্য দায়ী।",
+    "বায়োলজির শাখা কি?": "বায়োলজি হল জীবনের এবং জীবিত জীবের অধ্যয়ন, যার মধ্যে তাদের গঠন, কার্যক্রম এবং বিবর্তন অন্তর্ভুক্ত।",
+    "পৃথিবীর কেন্দ্র কি?": "পৃথিবীর কেন্দ্র একটি লৌহ ও নিকেলের কেন্দ্রীয় অংশ, যা অত্যন্ত গরম।",
+    "থার্মাল ইনসুলেশন কি?": "থার্মাল ইনসুলেশন হল একটি পদার্থ যা তাপ প্রবাহ প্রতিরোধ করে।",
+    "ক্লান্তি কি?": "ক্লান্তি হল একটি শারীরিক অবস্থা যা শরীরের শক্তির অভাব নির্দেশ করে।",
+    "অ্যাসিড-ভিত্তিক প্রতিক্রিয়া কি?": "অ্যাসিড-ভিত্তিক প্রতিক্রিয়া হল একটি রসায়নিক প্রক্রিয়া যেখানে অ্যাসিড এবং একটি ভিত্তির মধ্যে বিক্রিয়া ঘটে।",
+    "হলুদ পাথরের সৃষ্টির প্রক্রিয়া কি?": "হলুদ পাথর সৃষ্টির প্রক্রিয়া হল বিভিন্ন পদার্থের সংমিশ্রণে তৈরি হওয়া এক বিশেষ প্রক্রিয়া।",
+    "অগ্ন্যুৎপাত কি?": "অগ্ন্যুৎপাত হল একটি প্রাকৃতিক ঘটনা যেখানে মাটির নীচ থেকে লাবণী, ছাই এবং গ্যাস নির্গত হয়।",
+    "নিবিড় বৃষ্টি কি?": "নিবিড় বৃষ্টি হল একটি তীব্র আবহাওয়া ঘটনা যা তাত্ক্ষণিকভাবে বেশি পরিমাণে বৃষ্টি সৃষ্টি করে।",
+    "সফলতার গোপন কি?": "সফলতার গোপন হল পরিশ্রম, সংকল্প এবং সঠিক পরিকল্পনা।",
+    "কপাল কি?": "কপাল হল একটি প্রধান চিত্রনাট্য যা মনে বা ভবিষ্যৎ সংক্রান্ত ইঙ্গিত দেয়।",
+    "ফুলের জীবন চক্র কি?": "ফুলের জীবন চক্র হল গর্ভাবস্থার মধ্যে ফুলের বিকাশ, পাকা এবং ফল উৎপাদনের পর্যায়।",
+    "বায়োমাস কি?": "বায়োমাস হল জৈব পদার্থ যা পরিবেশে থাকে এবং জীববৈচিত্র্যের মাপ নির্দেশ করে।",
+    "জলাবদ্ধতা কি?": "জলাবদ্ধতা হল জলস্তর বৃদ্ধি বা হ্রাসের কারণে প্রাকৃতিক অবস্থার পরিবর্তন।",
+    "কম্পিউটার বিজ্ঞান কি?": "কম্পিউটার বিজ্ঞান হল কম্পিউটার প্রযুক্তির গবেষণা, ডিজাইন, উন্নয়ন এবং ব্যবহারের অধ্যয়ন।",
+    "জলবায়ু পরিবর্তনের কারণ কি?": "জলবায়ু পরিবর্তনের কারণ হল মানব কার্যক্রম এবং প্রাকৃতিক প্রক্রিয়া।",
+    "গবেষণা কি?": "গবেষণা হল একটি নিয়মিত এবং উদ্দেশ্যপ্রণোদিত কার্যক্রম যা নতুন তথ্য সংগ্রহ এবং বিশ্লেষণ করে।",
+    "ল্যাবরেটরি কি?": "ল্যাবরেটরি হল একটি বিশেষায়িত স্থান যেখানে বৈজ্ঞানিক পরীক্ষাগুলি পরিচালনা করা হয়।",
+    "প্যারাসাইট কি?": "প্যারাসাইট হল একটি জীব যা অন্য একটি জীবের শরীরের উপর নির্ভরশীল।",
+    "অ্যাসিডের প্রভাব কি?": "অ্যাসিডের প্রভাব হল বিভিন্ন প্রক্রিয়ায় বিপরীত এবং ক্ষতিকারক হতে পারে।",
+    "দূষিত পানি কি?": "দূষিত পানি হল এমন পানি যা অপদ্রব্য বা রাসায়নিক দ্বারা দূষিত হয়।",
+    "জলবায়ু সংকট কি?": "জলবায়ু সংকট হল জলবায়ু পরিবর্তনের কারণে পরিবেশগত সমস্যা।",
+    "নবীনের চরিত্র কি?": "নবীনের চরিত্র হল নতুন তথ্য গ্রহণ এবং সমাধানের জন্য প্রস্তুতি।",
+    "ভৌগোলিক বৈচিত্র্য কি?": "ভৌগোলিক বৈচিত্র্য হল বিভিন্ন স্থানে বৈশিষ্ট্যগত পরিবর্তন।",
+    "পৃথিবীর অক্ষীয় গতি কি?": "পৃথিবীর অক্ষীয় গতি হল পৃথিবীর নিজ অক্ষের চারপাশে ঘূর্ণন।",
+    "গরম পানির প্রভাব কি?": "গরম পানির প্রভাব হল উষ্ণতা এবং প্রাকৃতিক পরিবেশের পরিবর্তন।",
+    "নেতৃত্বের গুণ কি?": "নেতৃত্বের গুণ হল অন্যদের নির্দেশনা ও প্রেরণা দেওয়ার ক্ষমতা।",
+    "শূন্যতাবাদ কি?": "শূন্যতাবাদ হল মহাবিশ্বের একটি প্রকৃতি যা সব কিছু শূন্যতা হিসেবে বোঝায়।",
+    "শিক্ষার গুরুত্ব কি?": "শিক্ষার গুরুত্ব হল মানুষের সুশিক্ষা এবং জীবনযাপনের উন্নতি।",
+    "পৃথিবীর প্রাচীন ইতিহাস কি?": "পৃথিবীর প্রাচীন ইতিহাস হল সময়ের মধ্যে ঘটিত বিভিন্ন ঘটনাবলী এবং মানব সভ্যতার উন্নতি।",
+    "পরমাণু শক্তির ব্যবহার কি?": "পরমাণু শক্তির ব্যবহার হল বিদ্যুৎ উৎপাদন, চিকিৎসা এবং গবেষণায়।",
+    "ডিএনএ-র গঠন কি?": "ডিএনএ হল একটি ডবল হেলিক্সের রূপে আবদ্ধ, যা জিনগত তথ্য ধারণ করে।",
+    "মহাবিশ্বের গঠন কি?": "মহাবিশ্বের গঠন হল নক্ষত্র, গ্যালাক্সি, এবং অন্য মহাজাগতিক বস্তু সমন্বয়ে গঠিত।",
+    "আলোর গতি কি?": "আলোর গতি হল আলোর প্রচারিত হওয়ার গতি, যা প্রায় 299,792 কিমি প্রতি সেকেন্ড।",
+    "জলীয় জীবন চক্র কি?": "জলীয় জীবন চক্র হল জলভাগের মধ্যে জীবনের গতির একটি প্রক্রিয়া।",
+    "দূষণের প্রভাব কি?": "দূষণের প্রভাব হল পরিবেশে বিপরীত প্রভাব এবং মানব স্বাস্থ্যহানির সম্ভাবনা।",
+    "জৈব রসায়ন কি?": "জৈব রসায়ন হল জীবিত এবং অজীবিত পদার্থের মধ্যে রাসায়নিক সম্পর্কের অধ্যয়ন।",
+    "অভিকর্ষের আইন কি?": "অভিকর্ষের আইন হল একটি মৌলিক শারীরিক সূত্র যা বস্তুর মধ্যে অভিকর্ষীয় শক্তি বর্ণনা করে।",
+    "কপার কি?": "কপার হল একটি ধাতু যা তাপ এবং বিদ্যুৎ পরিবাহিত করে এবং ব্যবহার হয়।",
+    "পদার্থের তিনটি অবস্থান কি?": "পদার্থের তিনটি অবস্থান হল কঠিন, তরল, এবং গ্যাস।",
+    "মাংসপেশী কি?": "মাংসপেশী হল এক ধরনের পেশী যা শরীরের আন্দোলনের জন্য দায়ী।",
+    "অভ্যন্তরীণ শক্তি কি?": "অভ্যন্তরীণ শক্তি হল একটি পদার্থের মধ্যে বিদ্যমান শক্তি।",
+    "নিউটনের দ্বিতীয় আইন কি?": "নিউটনের দ্বিতীয় আইন হল যে কোনও বস্তুর মাধ্যাকর্ষণ এবং অভ্যন্তরীণ গতি সম্পর্কিত।",
+    "মহাকাশ স্টেশন কি?": "মহাকাশ স্টেশন হল একটি বৈজ্ঞানিক গবেষণার প্ল্যাটফর্ম যা মহাকাশে স্থাপন করা হয়।",
+    "অ্যানালগ সিগন্যাল কি?": "অ্যানালগ সিগন্যাল হল একটি তথ্য বা সংকেত যা নিরবচ্ছিন্ন পরিবর্তনশীল।",
+    "রূপান্তর কি?": "রূপান্তর হল একটি পদার্থের পরিবর্তন যা বৈশিষ্ট্য ও গুণ পরিবর্তন করে।",
+    "ক্যালসিয়াম কি?": "ক্যালসিয়াম হল একটি মৌলিক পদার্থ যা মানবদেহের জন্য অপরিহার্য।",
+    "শক্তির সংরক্ষণ আইন কি?": "শক্তির সংরক্ষণ আইন হল শক্তির সঞ্চয় এবং রূপান্তরের আইন।",
+    "কৃত্রিম বুদ্ধিমত্তা কি?": "কৃত্রিম বুদ্ধিমত্তা হল যন্ত্রগুলির মধ্যে মানুষের মতো বুদ্ধি সৃষ্টি।",
+    "মলিকুলার বায়োলজি কি?": "মলিকুলার বায়োলজি হল জীবের কোষের মধ্যে মলিকুলার স্তরে গবেষণা।",
+    "জলবায়ুর প্রভাব কি?": "জলবায়ুর প্রভাব হল স্থানীয় আবহাওয়ার উপর বিশাল প্রভাব ফেলে।",
+    "সিসিমাস কি?": "সিসিমাস হল একটি প্রাকৃতিক অ্যালার্ম যা ভূমিকম্পের পূর্বাভাস দেয়।",
+    "জলদূষণ কি?": "জলদূষণ হল জলভাগের মধ্যে রাসায়নিক বা জীবাণুর কারণে গুণগত অবনতি।",
+    "ফলনের চক্র কি?": "ফলনের চক্র হল একটি কৃষি চক্র যা ফসলের উৎপাদন ও প্রক্রিয়াকরণের সঙ্গে সম্পর্কিত।",
+    "গবেষণার লক্ষ্য কি?": "গবেষণার লক্ষ্য হল নতুন তথ্য সংগ্রহ এবং বিশ্লেষণের মাধ্যমে সমস্যা সমাধান করা।",
+    "জীবনের উদ্ভব কি?": "জীবনের উদ্ভব হল বিভিন্ন প্রক্রিয়ার ফলস্বরূপ জৈব পদার্থের তৈরি।",
+    "ম্যাথেমেটিক্সের ভূমিকা কি?": "ম্যাথেমেটিক্সের ভূমিকা হল সংখ্যা এবং আকৃতির বিশ্লেষণ ও গবেষণা।",
+    "বিশ্বের প্রাচীন সভ্যতা কি?": "বিশ্বের প্রাচীন সভ্যতা হল মানব ইতিহাসের প্রাথমিক কালের সম্প্রদায়।",
+    "কোষ বিভাজন কি?": "কোষ বিভাজন হল একটি প্রক্রিয়া যেখানে একটি কোষ দুই বা তার বেশি কোষে বিভক্ত হয়।",
+    "পদার্থের বৈশিষ্ট্য কি?": "পদার্থের বৈশিষ্ট্য হল পদার্থের ফিজিক্যাল ও কেমিক্যাল চরিত্র।",
+    "বৈজ্ঞানিক পদ্ধতি কি?": "বৈজ্ঞানিক পদ্ধতি হল গবেষণার একটি প্রক্রিয়া যা পর্যবেক্ষণ, প্রশ্ন, এবং পরীক্ষা দ্বারা পরিচালিত হয়।",
+    "পরিবেশ সুরক্ষা কি?": "পরিবেশ সুরক্ষা হল আমাদের পরিবেশকে রক্ষা করার প্রক্রিয়া।",
+    "what is the capital of ancient Egypt": "The capital of ancient Egypt was Thebes.",
+    "প্রাচীন মিশরের রাজধানী কী ছিল": "প্রাচীন মিশরের রাজধানী ছিল থিবস।",
+    
+    "who built the Great Wall of China": "The Great Wall of China was built by various dynasties, most notably the Ming dynasty.",
+    "চীনীয় মহাপ্রাচীর কে নির্মাণ করেছিল": "চীনীয় মহাপ্রাচীর বিভিন্ন রাজবংশ দ্বারা নির্মাণ করা হয়েছিল, সবচেয়ে উল্লেখযোগ্য মিন রাজবংশ।",
+
+    "when did the Titanic sink": "The Titanic sank on April 15, 1912.",
+    "টাইটানিক কবে ডুবেছে": "টাইটানিক ১৫ এপ্রিল, ১৯১২ তারিখে ডুবেছিল।",
+
+    "who was the first president of the United States": "The first president of the United States was George Washington.",
+    "মার্কিন যুক্তরাষ্ট্রের প্রথম প্রেসিডেন্ট কে ছিলেন": "মার্কিন যুক্তরাষ্ট্রের প্রথম প্রেসিডেন্ট ছিলেন জর্জ ওয়াশিংটন।",
+
+    "what year did World War II begin": "World War II began in 1939.",
+    "দ্বিতীয় বিশ্বযুদ্ধ কবে শুরু হয়েছিল": "দ্বিতীয় বিশ্বযুদ্ধ ১৯৩৯ সালে শুরু হয়েছিল।",
+
+    "who discovered America": "Christopher Columbus is credited with discovering America in 1492.",
+    "আমেরিকা কে আবিষ্কার করেছিল": "ক্রিস্টোফার কলম্বাস ১৪৯২ সালে আমেরিকা আবিষ্কারের জন্য পরিচিত।",
+
+    "when was the Declaration of Independence signed": "The Declaration of Independence was signed on July 4, 1776.",
+    "স্বাধীনতার ঘোষণা কবে স্বাক্ষরিত হয়েছিল": "স্বাধীনতার ঘোষণা ৪ জুলাই, ১৭৭৬ তারিখে স্বাক্ষরিত হয়েছিল।",
+
+    "who was the first man on the moon": "Neil Armstrong was the first man on the moon in 1969.",
+    "চাঁদে প্রথম মানুষ কে ছিলেন": "নিল আর্মস্ট্রং ১৯৬৯ সালে চাঁদে প্রথম মানুষ ছিলেন।",
+
+    "when did the Berlin Wall fall": "The Berlin Wall fell on November 9, 1989.",
+    "বার্লিন প্রাচীর কবে পড়েছিল": "বার্লিন প্রাচীর ৯ নভেম্বর, ১৯৮৯ তারিখে পড়েছিল।",
+
+    "who was Cleopatra": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt.",
+    "ক্লিওপেট্রা কে ছিলেন": "ক্লিওপেট্রা ছিল প্রাচীন মিশরের পটলেমীয় রাজ্যের শেষ সক্রিয় শাসক।",
+
+    "when was the first man-made satellite launched": "The first man-made satellite, Sputnik, was launched in 1957.",
+    "প্রথম মানবসৃষ্ট উপগ্রহ কবে উৎক্ষেপণ হয়েছিল": "প্রথম মানবসৃষ্ট উপগ্রহ, স্পুটনিক, ১৯৫৭ সালে উৎক্ষেপণ হয়েছিল।",
+
+    "who wrote the Declaration of Independence": "Thomas Jefferson wrote the Declaration of Independence.",
+    "স্বাধীনতার ঘোষণাপত্র কে লিখেছিলেন": "স্বাধীনতার ঘোষণাপত্র লিখেছিলেন থমাস জেফারসন।",
+
+    "what was the cause of the Civil War in the United States": "The Civil War was primarily caused by disputes over slavery and states' rights.",
+    "মার্কিন যুক্তরাষ্ট্রের গৃহযুদ্ধের কারণ কী ছিল": "গৃহযুদ্ধের মূল কারণ ছিল দাসত্ব এবং রাজ্যের অধিকার নিয়ে বিরোধ।",
+
+    "who was the first female prime minister of the UK": "Margaret Thatcher was the first female prime minister of the United Kingdom.",
+    "যুক্তরাজ্যের প্রথম নারী প্রধানমন্ত্রী কে ছিলেন": "মার্গারেট থ্যাচার যুক্তরাজ্যের প্রথম নারী প্রধানমন্ত্রী ছিলেন।",
+
+    "when did the American Civil Rights Movement take place": "The American Civil Rights Movement took place primarily in the 1950s and 1960s.",
+    "মার্কিন গৃহযুদ্ধকালীন অধিকার আন্দোলন কবে ঘটে": "মার্কিন গৃহযুদ্ধকালীন অধিকার আন্দোলন মূলত ১৯৫০ ও ১৯৬০-এর দশকে ঘটে।",
+
+    "who painted the Mona Lisa": "Leonardo da Vinci painted the Mona Lisa.",
+    "মোনা লিসা কে অঙ্কন করেছিলেন": "মোনা লিসা অঙ্কন করেছিলেন লিওনার্দো দা ভিঞ্চি।",
+
+    "when was the first telephone invented": "The first telephone was invented by Alexander Graham Bell in 1876.",
+    "প্রথম টেলিফোন কবে আবিষ্কার হয়েছিল": "প্রথম টেলিফোন ১৮৭৬ সালে আলেকজান্ডার গ্রাহাম বেল দ্বারা আবিষ্কার হয়েছিল।",
+
+    "who was Winston Churchill": "Winston Churchill was the Prime Minister of the United Kingdom during World War II.",
+    "উইনস্টন চার্চিল কে ছিলেন": "উইনস্টন চার্চিল ছিলেন দ্বিতীয় বিশ্বযুদ্ধের সময় যুক্তরাজ্যের প্রধানমন্ত্রী।",
+
+    "when did the Roman Empire fall": "The Roman Empire fell in 476 AD.",
+    "রোমান সাম্রাজ্য কবে পড়েছিল": "রোমান সাম্রাজ্য ৪৭৬ খ্রিস্টাব্দে পড়েছিল।",
+
+    "who invented the light bulb": "Thomas Edison is credited with inventing the light bulb.",
+    "বাতি আবিষ্কার কে করেছিলেন": "থমাস এডিসন বাতি আবিষ্কারের জন্য পরিচিত।",
+
+    "when did the French Revolution start": "The French Revolution started in 1789.",
+    "ফরাসি বিপ্লব কবে শুরু হয়েছিল": "ফরাসি বিপ্লব ১৭৮৯ সালে শুরু হয়েছিল।",
+
+    "who was the first emperor of China": "Qin Shi Huang was the first emperor of China.",
+    "চীনের প্রথম সম্রাট কে ছিলেন": "কুইন শি হুয়াং চীনের প্রথম সম্রাট ছিলেন।",
+
+    "what was the significance of the Magna Carta": "The Magna Carta limited the powers of the king and laid the foundation for modern democracy.",
+    "ম্যাগনা কার্তার গুরুত্ব কী ছিল": "ম্যাগনা কার্টা রাজার ক্ষমতাকে সীমাবদ্ধ করে এবং আধুনিক গণতন্ত্রের ভিত্তি স্থাপন করে।",
+
+    "when did the Cold War begin": "The Cold War began after World War II in 1947.",
+    "সرد যুদ্ধ কবে শুরু হয়েছিল": "সرد যুদ্ধ দ্বিতীয় বিশ্বযুদ্ধের পরে ১৯৪৭ সালে শুরু হয়েছিল।",
+
+    "who was Mahatma Gandhi": "Mahatma Gandhi was a leader of the Indian independence movement against British rule.",
+    "মহাত্মা গান্ধী কে ছিলেন": "মহাত্মা গান্ধী ছিলেন ব্রিটিশ শাসনের বিরুদ্ধে ভারতের স্বাধীনতা আন্দোলনের নেতা।",
+
+    "when was the first Olympic Games held": "The first Olympic Games were held in 776 BC in Ancient Greece.",
+    "প্রথম অলিম্পিক গেমস কবে অনুষ্ঠিত হয়েছিল": "প্রথম অলিম্পিক গেমস ৭৭৬ খ্রিস্টপূর্বে প্রাচীন গ্রীসে অনুষ্ঠিত হয়েছিল।",
+
+    "who was the last Tsar of Russia": "Nicholas II was the last Tsar of Russia.",
+    "রাশিয়ার শেষ জার কে ছিলেন": "নিকোলাস দ্বিতীয় রাশিয়ার শেষ জার ছিলেন।",
+
+    "when did the Titanic sail": "The Titanic sailed on April 10, 1912.",
+    "টাইটানিক কবে যাত্রা করেছিল": "টাইটানিক ১০ এপ্রিল, ১৯১২ তারিখে যাত্রা করেছিল।",
+
+    "who discovered penicillin": "Alexander Fleming discovered penicillin in 1928.",
+    "পেনিসিলিন কে আবিষ্কার করেছিলেন": "আলেকজান্ডার ফ্লেমিং ১৯২৮ সালে পেনিসিলিন আবিষ্কার করেছিলেন।",
+
+    "when did the first man reach the South Pole": "The first man to reach the South Pole was Roald Amundsen in 1911.",
+    "প্রথম মানুষ কবে দক্ষিণ মেরুতে পৌঁছেছিল": "দক্ষিণ মেরুতে পৌঁছানোর প্রথম মানুষ ছিলেন রোয়াল্ড আমুন্ডসেন ১৯১১ সালে।",
+
+    "who was the first woman to fly solo across the Atlantic": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean in 1932.",
+    "অ্যাটলান্টিক এককভাবে পার হওয়া প্রথম নারী কে ছিলেন": "এমিলিয়া এয়ারহার্ট ১৯৩২ সালে আটলান্টিক মহাসাগর এককভাবে পার হওয়া প্রথম নারী ছিলেন।",
+
+    "when was the first electric car invented": "The first electric car was invented in the 1820s.",
+    "প্রথম বৈদ্যুতিক গাড়ি কবে আবিষ্কার হয়েছিল": "প্রথম বৈদ্যুতিক গাড়ি ১৮২০-এর দশকে আবিষ্কার হয়েছিল।",
+
+    "who was the first person to climb Mount Everest": "Sir Edmund Hillary and Tenzing Norgay were the first to reach the summit of Mount Everest in 1953.",
+    "মাউন্ট এভারেস্টে প্রথম ওঠা ব্যক্তি কে ছিলেন": "স্যার এডমন্ড হিলারি এবং তেনজিং নরগে ১৯৫৩ সালে মাউন্ট এভারেস্টের শিখরে পৌঁছান।",
+
+    "when was the United Nations founded": "The United Nations was founded on October 24, 1945.",
+    "জাতিসংঘ কবে প্রতিষ্ঠিত হয়েছিল": "জাতিসংঘ ২৪ অক্টোবর, ১৯৪৫ সালে প্রতিষ্ঠিত হয়েছিল।",
+
+    "who was Martin Luther King Jr.": "Martin Luther King Jr. was an American civil rights leader known for his nonviolent protests.",
+    "মার্টিন লুথার কিং জুনিয়র কে ছিলেন": "মার্টিন লুথার কিং জুনিয়র ছিলেন একজন আমেরিকান নাগরিক অধিকার নেতা যিনি নির্যাতনবিহীন প্রতিবাদে পরিচিত।",
+
+    "when was the first female vote in the USA": "The first female vote in the USA was cast in 1920 after the 19th Amendment was ratified.",
+    "মার্কিন যুক্তরাষ্ট্রে প্রথম নারী ভোট কবে দেওয়া হয়েছিল": "মার্কিন যুক্তরাষ্ট্রে প্রথম নারী ভোট ১৯২০ সালে ১৯ তম সংশোধনীর অনুমোদনের পর দেওয়া হয়েছিল।",
+
+    "who was the first African American president of the USA": "Barack Obama was the first African American president of the USA.",
+    "মার্কিন যুক্তরাষ্ট্রের প্রথম আফ্রিকান আমেরিকান প্রেসিডেন্ট কে ছিলেন": "বারাক ওবামা মার্কিন যুক্তরাষ্ট্রের প্রথম আফ্রিকান আমেরিকান প্রেসিডেন্ট ছিলেন।",
+
+    "when did the first man land on the moon": "The first man landed on the moon on July 20, 1969.",
+    "প্রথম মানুষ চাঁদে কবে পা রেখেছিল": "প্রথম মানুষ ২০ জুলাই, ১৯৬৯ সালে চাঁদে পা রেখেছিল।",
+
+    "who invented the airplane": "The Wright brothers, Orville and Wilbur Wright, invented the airplane.",
+    "বিমান কে আবিষ্কার করেছিলেন": "রাইট ব্রাদার্স, অরভিল এবং উইলবার রাইট, বিমান আবিষ্কার করেছিলেন।",
+
+    "when was the Great Fire of London": "The Great Fire of London occurred in 1666.",
+    "লন্ডনের মহান আগুন কবে ঘটে": "লন্ডনের মহান আগুন ১৬৬৬ সালে ঘটে।",
+
+    "who wrote 'The Communist Manifesto'": "Karl Marx and Friedrich Engels wrote 'The Communist Manifesto'.",
+    "‘কমিউনিস্ট মেনিফেস্টো’ কে লিখেছিলেন": "কার্ল মার্কস এবং ফ্রিডরিখ এঙ্গেলস ‘কমিউনিস্ট মেনিফেস্টো’ লিখেছিলেন।",
+
+    "when did India gain independence": "India gained independence from British rule on August 15, 1947.",
+    "ভারত কবে স্বাধীনতা পেয়েছিল": "ভারত ১৫ আগস্ট, ১৯৪৭ তারিখে ব্রিটিশ শাসনের থেকে স্বাধীনতা পেয়েছিল।",
+
+    "who was the first woman to win a Nobel Prize": "Marie Curie was the first woman to win a Nobel Prize.",
+    "প্রথম নারী নোবেল পুরস্কার কে জিতেছিলেন": "মেরি কুরি প্রথম নারী যিনি নোবেল পুরস্কার জিতেছিলেন।",
+
+    "when was the first email sent": "The first email was sent in 1971.",
+    "প্রথম ইমেইল কবে পাঠানো হয়েছিল": "প্রথম ইমেইল ১৯৭১ সালে পাঠানো হয়েছিল।",
+
+    "who was the first person to win two Nobel Prizes": "Marie Curie was the first person to win two Nobel Prizes.",
+    "দুইটি নোবেল পুরস্কার পাওয়া প্রথম ব্যক্তি কে ছিলেন": "মেরি কুরি দুইটি নোবেল পুরস্কার পাওয়া প্রথম ব্যক্তি ছিলেন।",
+
+    "when did the first man reach the North Pole": "The first man to reach the North Pole was Robert Peary in 1909.",
+    "প্রথম মানুষ কবে উত্তর মেরুতে পৌঁছেছিল": "প্রথম মানুষ উত্তর মেরুতে পৌঁছানোর ছিলেন রবার্ট পিয়ারি ১৯০৯ সালে।",
+
+    "who was the first African American to win the Pulitzer Prize": "Gwendolyn Brooks was the first African American to win the Pulitzer Prize in 1949.",
+    "প্রথম আফ্রিকান আমেরিকান যিনি পুলিটজার পুরস্কার পেয়েছিলেন কে ছিলেন": "গোয়েন্ডোলিন ব্রুকস ১৯৪৯ সালে পুলিটজার পুরস্কার পাওয়া প্রথম আফ্রিকান আমেরিকান।",
+
+    "when did the first female astronaut go to space": "The first female astronaut, Valentina Tereshkova, went to space in 1963.",
+    "প্রথম নারী মহাকাশচারী কবে মহাকাশে গিয়েছিলেন": "প্রথম নারী মহাকাশচারী, ভ্যালেনটিনা টেরেশকোভা, ১৯৬৩ সালে মহাকাশে গিয়েছিলেন।",
+
+    "who was the first queen of England": "Mary I was the first queen regnant of England.",
+    "যুক্তরাজ্যের প্রথম রানী কে ছিলেন": "মেরি প্রথম যুক্তরাজ্যের প্রথম রানী ছিলেন।",
+
+    "when did the first man walk on the moon": "The first man walked on the moon on July 20, 1969.",
+    "প্রথম মানুষ চাঁদে কবে পা রেখেছিল": "প্রথম মানুষ ২০ জুলাই, ১৯৬৯ সালে চাঁদে পা রেখেছিল।",
+
+    "who invented the printing press": "Johannes Gutenberg invented the printing press around 1440.",
+    "মুদ্রণ যন্ত্র কে আবিষ্কার করেছিলেন": "জোহানেস গুটেনবার্গ প্রায় ১৪৪০ সালে মুদ্রণ যন্ত্র আবিষ্কার করেছিলেন।",
+
+    "when was the first successful vaccine developed": "The first successful vaccine was developed by Edward Jenner in 1796.",
+    "প্রথম সফল ভ্যাকসিন কবে তৈরি হয়েছিল": "প্রথম সফল ভ্যাকসিন ১৭৯৬ সালে এডওয়ার্ড জেনার দ্বারা তৈরি হয়েছিল।",
+
+    "who was the first female pharaoh of Egypt": "Hatshepsut was one of the first female pharaohs of Egypt.",
+    "প্রাচীন মিশরের প্রথম নারী ফারাও কে ছিলেন": "হাতশেপসুত ছিলেন প্রাচীন মিশরের প্রথম নারী ফারাও।",
+
+    "when did the first successful heart transplant occur": "The first successful heart transplant occurred in 1967.",
+    "প্রথম সফল হৃদযন্ত্র প্রতিস্থাপন কবে ঘটে": "প্রথম সফল হৃদযন্ত্র প্রতিস্থাপন ১৯৬৭ সালে ঘটে।",
+
+    "who was the first human to orbit the Earth": "Yuri Gagarin was the first human to orbit the Earth in 1961.",
+    "প্রথম মানুষ কে ছিলেন যিনি পৃথিবীর চারপাশে ঘুরেছেন": "ইউরি গ্যাগারিন ১৯৬১ সালে পৃথিবীর চারপাশে ঘুরার প্রথম মানুষ ছিলেন।",
+
+    "when was the first television invented": "The first television was invented in the late 1920s.",
+    "প্রথম টেলিভিশন কবে আবিষ্কার হয়েছিল": "প্রথম টেলিভিশন ১৯২০-এর শেষের দিকে আবিষ্কার হয়েছিল।",
+
+    "who was the first female Supreme Court Justice in the USA": "Sandra Day O'Connor was the first female Supreme Court Justice in the USA.",
+    "মার্কিন যুক্তরাষ্ট্রের প্রথম মহিলা সুপ্রিম কোর্টের বিচারক কে ছিলেন": "স্যান্ড্রা ডে ও'কনর মার্কিন যুক্তরাষ্ট্রের প্রথম মহিলা সুপ্রিম কোর্টের বিচারক ছিলেন।",
+
+    "when did the space shuttle program start": "The space shuttle program started in 1981.",
+    "স্পেস শাটল প্রোগ্রাম কবে শুরু হয়েছিল": "স্পেস শাটল প্রোগ্রাম ১৯৮১ সালে শুরু হয়েছিল।",
+
+    "who was the first person to break the sound barrier": "Chuck Yeager was the first person to break the sound barrier in 1947.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি শব্দের গতির সীমা ভেঙেছিলেন": "চাক ইয়েগার ১৯৪৭ সালে শব্দের গতির সীমা ভেঙেছিলেন।",
+
+    "when was the first heart surgery performed": "The first successful heart surgery was performed in 1896.",
+    "প্রথম হৃদরোগের অস্ত্রোপচার কবে করা হয়েছিল": "প্রথম সফল হৃদরোগের অস্ত্রোপচার ১৮৯৬ সালে করা হয়েছিল।",
+
+    "who was the first to circumnavigate the globe": "Ferdinand Magellan is credited with being the first to circumnavigate the globe.",
+    "পৃথিবীকে প্রথমবার পরিবেষ্টিত কে করেছিলেন": "ফার্দিনান্দ ম্যাগেলানকে পৃথিবীকে প্রথমবার পরিবেষ্টিত করার জন্য পরিচিত।",
+
+    "when was the first commercial flight": "The first commercial flight took place on January 1, 1914.",
+    "প্রথম বাণিজ্যিক ফ্লাইট কবে অনুষ্ঠিত হয়েছিল": "প্রথম বাণিজ্যিক ফ্লাইট ১ জানুয়ারী, ১৯১৪ তারিখে অনুষ্ঠিত হয়েছিল।",
+
+    "who was the first person to walk on the North Pole": "Robert Peary is often credited as the first person to walk on the North Pole in 1909.",
+    "প্রথম মানুষ কে ছিলেন যিনি উত্তর মেরুর উপর হাঁটলেন": "রবার্ট পিয়ারি ১৯০৯ সালে উত্তর মেরুর উপর হাঁটার জন্য সাধারণত পরিচিত।",
+
+    "when did the Vietnam War end": "The Vietnam War ended on April 30, 1975.",
+    "ভিয়েতনাম যুদ্ধ কবে শেষ হয়েছিল": "ভিয়েতনাম যুদ্ধ ৩০ এপ্রিল, ১৯৭৫ তারিখে শেষ হয়েছিল।",
+
+    "who invented the internet": "The internet was developed by multiple individuals, but key figures include Tim Berners-Lee and Vint Cerf.",
+    "ইন্টারনেট কে আবিষ্কার করেছিলেন": "ইন্টারনেট বিভিন্ন ব্যক্তির দ্বারা উন্নত হয়েছিল, কিন্তু প্রধান ব্যক্তির মধ্যে রয়েছে টিম বার্নার্স-লি এবং ভিন্ট সার্ফ।",
+
+    "when was the first computer invented": "The first programmable computer was invented in 1936.",
+    "প্রথম কম্পিউটার কবে আবিষ্কার হয়েছিল": "প্রথম প্রোগ্রামেবল কম্পিউটার ১৯৩৬ সালে আবিষ্কার হয়েছিল।",
+
+    "who was the first to reach the summit of Mount Everest without oxygen": "Reinhold Messner was the first person to reach the summit of Mount Everest without supplemental oxygen in 1978.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি অক্সিজেন ছাড়াই মাউন্ট এভারেস্টের শিখরে পৌঁছেছিলেন": "রেইনহোল্ড মেসনার ১৯৭৮ সালে অক্সিজেন ছাড়াই মাউন্ট এভারেস্টের শিখরে পৌঁছানোর প্রথম ব্যক্তি ছিলেন।",
+
+    "when was the first iPhone released": "The first iPhone was released on June 29, 2007.",
+    "প্রথম আইফোন কবে মুক্তি পেয়েছিল": "প্রথম আইফোন ২৯ জুন, ২০০৭ তারিখে মুক্তি পেয়েছিল।",
+
+    "who was the first person to fly in space": "Yuri Gagarin was the first person to fly in space in 1961.",
+    "প্রথম মানুষ কে ছিলেন যিনি মহাকাশে উড়াল দিয়েছিলেন": "ইউরি গ্যাগারিন ১৯৬১ সালে মহাকাশে উড়াল দেওয়ার প্রথম মানুষ ছিলেন।",
+
+    "when was the Berlin Wall constructed": "The Berlin Wall was constructed in 1961.",
+    "বার্লিন প্রাচীর কবে নির্মিত হয়েছিল": "বার্লিন প্রাচীর ১৯৬১ সালে নির্মিত হয়েছিল।",
+
+    "who was the first person to sail around the world": "Ferdinand Magellan's expedition was the first to sail around the world, though he died during the voyage.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি বিশ্বজুড়ে নৌকা চালিয়েছিলেন": "ফার্দিনান্দ ম্যাগেলানের অভিযান বিশ্বজুড়ে নৌকা চালানোর প্রথম ছিল, যদিও তিনি যাত্রার সময় মারা যান।",
+
+    "when did the first email between computers occur": "The first email between computers was sent in 1971.",
+    "কম্পিউটারগুলির মধ্যে প্রথম ইমেইল কবে হয়েছিল": "কম্পিউটারগুলির মধ্যে প্রথম ইমেইল ১৯৭১ সালে পাঠানো হয়েছিল।",
+
+    "who was the first woman to fly in space": "Valentina Tereshkova was the first woman to fly in space in 1963.",
+    "প্রথম নারী কে ছিলেন যিনি মহাকাশে উড়াল দিয়েছিলেন": "ভ্যালেন্টিনা টেরেশকোভা ১৯৬৩ সালে মহাকাশে উড়াল দেওয়ার প্রথম নারী ছিলেন।",
+
+    "when did the first Star Wars movie come out": "The first Star Wars movie, Episode IV: A New Hope, was released in 1977.",
+    "প্রথম স্টার ওয়ার্স সিনেমা কবে মুক্তি পেয়েছিল": "প্রথম স্টার ওয়ার্স সিনেমা, পর্ব IV: একটি নতুন আশা, ১৯৭৭ সালে মুক্তি পেয়েছিল।",
+
+    "who was the first female pilot in the USA": "Harriet Quimby was the first female pilot in the USA.",
+    "মার্কিন যুক্তরাষ্ট্রের প্রথম মহিলা পাইলট কে ছিলেন": "হারিয়েট কুইম্বি মার্কিন যুক্তরাষ্ট্রের প্রথম মহিলা পাইলট ছিলেন।",
+
+    "when was the first time a human went into space": "The first human went into space on April 12, 1961.",
+    "প্রথমবার কোন মানব মহাকাশে গেলেন কবে": "প্রথম মানব ১২ এপ্রিল, ১৯৬১ সালে মহাকাশে গিয়েছিলেন।",
+
+    "who invented the telephone": "Alexander Graham Bell invented the telephone in 1876.",
+    "টেলিফোন কে আবিষ্কার করেছিলেন": "আলেকজান্ডার গ্রাহাম বেল ১৮৭৬ সালে টেলিফোন আবিষ্কার করেছিলেন।",
+
+    "when was the first woman elected to the US Congress": "Jeannette Rankin was the first woman elected to the US Congress in 1916.",
+    "মার্কিন কংগ্রেসে প্রথম নারী কবে নির্বাচিত হয়েছিল": "জিয়ানেট রাঙ্কিন ১৯১৬ সালে মার্কিন কংগ্রেসে প্রথম নারী নির্বাচিত হয়েছিল।",
+
+    "who was the first president of South Africa after apartheid": "Nelson Mandela was the first president of South Africa after apartheid.",
+    "অপার্থেইডের পর দক্ষিণ আফ্রিকার প্রথম প্রেসিডেন্ট কে ছিলেন": "নেলসন ম্যান্ডেলা অপার্থেইডের পর দক্ষিণ আফ্রিকার প্রথম প্রেসিডেন্ট ছিলেন।",
+
+    "when did the first modern Olympic Games take place": "The first modern Olympic Games took place in 1896.",
+    "প্রথম আধুনিক অলিম্পিক গেমস কবে অনুষ্ঠিত হয়েছিল": "প্রথম আধুনিক অলিম্পিক গেমস ১৮৯৬ সালে অনুষ্ঠিত হয়েছিল।",
+
+    "who was the first woman to receive a Nobel Prize in Physics": "Marie Curie was the first woman to receive a Nobel Prize in Physics.",
+    "প্রথম নারী যিনি পদার্থবিদ্যায় নোবেল পুরস্কার পেয়েছিলেন কে ছিলেন": "মেরি কুরি পদার্থবিদ্যায় নোবেল পুরস্কার পাওয়া প্রথম নারী ছিলেন।",
+
+    "when was the first successful organ transplant performed": "The first successful organ transplant was performed in 1954.",
+    "প্রথম সফল অঙ্গ প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল অঙ্গ প্রতিস্থাপন ১৯৫৪ সালে হয়েছিল।",
+
+    "who was the first female Chancellor of Germany": "Angela Merkel was the first female Chancellor of Germany.",
+    "জার্মানির প্রথম মহিলা চ্যান্সেলর কে ছিলেন": "অ্যাঞ্জেলা মেরকেল জার্মানির প্রথম মহিলা চ্যান্সেলর ছিলেন।",
+
+    "when was the first atomic bomb dropped": "The first atomic bomb was dropped on Hiroshima on August 6, 1945.",
+    "প্রথম পারমাণবিক বোমা কবে ফেলা হয়েছিল": "প্রথম পারমাণবিক বোমা ৬ আগস্ট, ১৯৪৫ তারিখে হিরোশিমায় ফেলা হয়েছিল।",
+
+    "who was the first woman to fly solo across the Atlantic": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean in 1932.",
+    "অ্যাটলান্টিক এককভাবে পার হওয়া প্রথম নারী কে ছিলেন": "এমিলিয়া এয়ারহার্ট ১৯৩২ সালে আটলান্টিক মহাসাগর এককভাবে পার হওয়া প্রথম নারী ছিলেন।",
+
+    "when did the first manned spaceflight occur": "The first manned spaceflight occurred on April 12, 1961.",
+    "প্রথম মানুষ যাত্রী মহাকাশে কবে উড়ে": "প্রথম মানুষ যাত্রী মহাকাশে ১২ এপ্রিল, ১৯৬১ তারিখে উড়ে।",
+
+    "who was the first person to receive a PhD": "The first person to receive a PhD is often credited to Emil von Behring in 1895.",
+    "প্রথম পিএইচডি কারা পাওয়া একজন ব্যক্তি কে": "প্রথম পিএইচডি পাওয়া ব্যক্তিকে ১৮৯৫ সালে এমিল ভন বেহরিংকে সাধারণত দেওয়া হয়।",
+
+    "when was the first video game invented": "The first video game, 'Tennis for Two,' was invented in 1958.",
+    "প্রথম ভিডিও গেম কবে আবিষ্কার হয়েছিল": "প্রথম ভিডিও গেম, 'টেনিস ফর টু', ১৯৫৮ সালে আবিষ্কার হয়েছিল।",
+
+    "who invented the first computer": "Charles Babbage is known as the 'father of the computer' for his early designs.",
+    "প্রথম কম্পিউটার কে আবিষ্কার করেছিলেন": "চার্লস ব্যাবেজকে প্রাথমিক নকশার জন্য 'কম্পিউটারের পিতা' হিসেবে পরিচিত।",
+
+    "when was the first successful vaccine developed for smallpox": "The first successful smallpox vaccine was developed by Edward Jenner in 1796.",
+    "স্মলপক্সের জন্য প্রথম সফল ভ্যাকসিন কবে তৈরি হয়েছিল": "স্মলপক্সের জন্য প্রথম সফল ভ্যাকসিন ১৭৯৬ সালে এডওয়ার্ড জেনারের দ্বারা তৈরি হয়েছিল।",
+
+    "who was the first black woman to win a Nobel Prize": "Toni Morrison was the first black woman to win a Nobel Prize in Literature in 1993.",
+    "প্রথম কৃষ্ণাঙ্গ নারী যিনি নোবেল পুরস্কার পেয়েছিলেন কে ছিলেন": "টোনি মরিসন ১৯৯৩ সালে সাহিত্য শাখায় নোবেল পুরস্কার পাওয়া প্রথম কৃষ্ণাঙ্গ নারী ছিলেন।",
+
+    "when was the first successful kidney transplant performed": "The first successful kidney transplant was performed in 1954.",
+    "প্রথম সফল কিডনি প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল কিডনি প্রতিস্থাপন ১৯৫৪ সালে হয়েছিল।",
+
+    "who was the first person to run a marathon": "Pheidippides is often credited with being the first person to run a marathon.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি ম্যারাথন দৌড়েছিলেন": "ফেইডিপিডিসকে ম্যারাথন দৌড়ানোর প্রথম ব্যক্তি হিসেবে পরিচিত।",
+
+    "when was the first successful eye transplant performed": "The first successful eye transplant was performed in 2000.",
+    "প্রথম সফল চোখের প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল চোখের প্রতিস্থাপন ২০০০ সালে হয়েছিল।",
+
+    "who was the first person to swim across the English Channel": "Matthew Webb was the first person to swim across the English Channel in 1875.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি ইংরেজ চ্যানেল পাড়ি দিয়েছিলেন": "ম্যাথিউ ওয়েব ১৮৭৫ সালে ইংরেজ চ্যানেল পাড়ি দেওয়ার প্রথম ব্যক্তি ছিলেন।",
+
+    "when was the first successful lung transplant performed": "The first successful lung transplant was performed in 1981.",
+    "প্রথম সফল ফুসফুস প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল ফুসফুস প্রতিস্থাপন ১৯৮১ সালে হয়েছিল।",
+
+    "who was the first person to climb K2": "Achille Compagnoni and Lino Lacedelli were the first people to reach the summit of K2 in 1954.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি কে ২ পর্বতে উঠেছিলেন": "অচিলে কনপাগনোনি এবং লিনো লাসেদেল্লি ১৯৫৪ সালে কে ২ পর্বতের শিখরে পৌঁছানোর প্রথম ব্যক্তি ছিলেন।",
+
+    "when was the first successful face transplant performed": "The first successful face transplant was performed in 2005.",
+    "প্রথম সফল মুখ প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল মুখ প্রতিস্থাপন ২০০৫ সালে হয়েছিল।",
+
+    "who was the first person to win an Olympic gold medal": "The first Olympic gold medal was awarded in 1896.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি অলিম্পিক সোনালী পদক জিতেছিলেন": "প্রথম অলিম্পিক সোনালী পদক ১৮৯৬ সালে প্রদান করা হয়েছিল।",
+
+    "when was the first electric car invented": "The first electric car was invented in the 1830s.",
+    "প্রথম বৈদ্যুতিক গাড়ি কবে আবিষ্কার হয়েছিল": "প্রথম বৈদ্যুতিক গাড়ি ১৮৩০-এর দশকে আবিষ্কার হয়েছিল।",
+
+    "who was the first person to win a gold medal in the Olympics": "The first Olympic gold medal was awarded at the 1896 Games.",
+    "প্রথম ব্যক্তি কে ছিলেন যিনি অলিম্পিকে সোনালী পদক জিতেছিলেন": "প্রথম অলিম্পিক সোনালী পদক ১৮৯৬ সালে প্রদান করা হয়েছিল।",
+
+    "when did the first female gymnast compete in the Olympics": "The first female gymnast competed in the Olympics in 1928.",
+    "প্রথম নারী জিমন্যাস্ট অলিম্পিকে কবে প্রতিযোগিতা করেছিলেন": "প্রথম নারী জিমন্যাস্ট ১৯২৮ সালে অলিম্পিকে প্রতিযোগিতা করেছিলেন।",
+
+    "who was the first person to discover penicillin": "Alexander Fleming discovered penicillin in 1928.",
+    "পেনিসিলিন কে আবিষ্কার করেছিলেন": "আলেকজান্ডার গ্রাহাম বেল ১৯২৮ সালে পেনিসিলিন আবিষ্কার করেছিলেন।",
+
+    "when was the first time a woman ran for president in the USA": "The first woman to run for president in the USA was Victoria Woodhull in 1872.",
+    "মার্কিন যুক্তরাষ্ট্রে প্রথম মহিলা কবে প্রেসিডেন্টের জন্য প্রতিদ্বন্দ্বিতা করেছিলেন": "ভিক্টোরিয়া উডহুল ১৮৭২ সালে মার্কিন যুক্তরাষ্ট্রে প্রথম মহিলা প্রেসিডেন্টের জন্য প্রতিদ্বন্দ্বিতা করেছিলেন।",
+
+    "who was the first person to discover America": "Christopher Columbus is often credited with discovering America in 1492.",
+    "আমেরিকা কে আবিষ্কার করেছিলেন": "ক্রিস্টোফার কলম্বাসকে ১৪৯২ সালে আমেরিকা আবিষ্কার করার জন্য পরিচিত।",
+
+    "when was the first successful liver transplant performed": "The first successful liver transplant was performed in 1967.",
+    "প্রথম সফল যকৃৎ প্রতিস্থাপন কবে হয়েছিল": "প্রথম সফল যকৃৎ প্রতিস্থাপন ১৯৬৭ সালে হয়েছিল।",
+
+    "who was the first woman to run for president in the USA": "Victoria Woodhull was the first woman to run for president in the USA in 1872.",
+    "মার্কিন যুক্তরাষ্ট্রে প্রথম নারী কবে প্রেসিডেন্টের জন্য প্রতিদ্বন্দ্বিতা করেছিলেন": "ভিক্টোরিয়া উডহুল ১৮৭২ সালে মার্কিন যুক্তরাষ্ট্রে প্রথম নারী প্রেসিডেন্টের জন্য প্রতিদ্বন্দ্বিতা করেছিলেন।",
+
+    "when did the first woman win a gold medal in the Olympics": "The first woman to win an Olympic gold medal was Hélène de Pourtalès in 1900.",
+    "প্রথম নারী অলিম্পিক সোনালী পদক কবে জিতেছিলেন": "প্রথম নারী অলিম্পিক সোনালী পদক ১৯০০ সালে হেলেন দে পোর্টেলেস জিতেছিলেন।",
+
+    "who was the first person to create a vaccine": "Edward Jenner is credited with creating the first vaccine in 1796.",
+    "প্রথম ভ্যাকসিন তৈরি কে করেছিলেন": "এডওয়ার্ড জেনারকে ১৭৯৬ সালে প্রথম ভ্যাকসিন তৈরির জন্য পরিচিত।",
+
+    "when was the first female voter in the USA": "The first female vote in the USA was cast in 1920 after the 19th Amendment was ratified.",
+    "মার্কিন যুক্তরাষ্ট্রে প্রথম নারী ভোট কবে দেওয়া হয়েছিল": "মার্কিন যুক্তরাষ্ট্রে প্রথম নারী ভোট ১৯২০ সালে ১৯ তম সংশোধনীর অনুমোদনের পর দেওয়া হয়েছিল।",
+
+    "hello": "Hi! How can I help you today?",
+    "হ্যালো": "হাই! আমি আপনাকে কিভাবে সাহায্য করতে পারি?",
+    
+    "what is your name": "I am a ChatBot AI created to assist you.",
+    "আপনার নাম কী": "আমি একটি চ্যাটবট এআই, আপনাকে সাহায্য করার জন্য তৈরি করা হয়েছে।",
+    
+    "how are you": "I'm just a program, but thanks for asking!",
+    "আপনি কেমন আছেন": "আমি একটি প্রোগ্রাম, কিন্তু জিজ্ঞাসা করার জন্য ধন্যবাদ!",
+    
+    "what can you do": "I can answer your questions!",
+    "আপনি কী করতে পারেন": "আমি আপনার প্রশ্নের উত্তর দিতে পারি!",
+    
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "আমাকে একটি রসিকতা বলুন": "বিজ্ঞানীরা পারমাণবিকদের উপর বিশ্বাস রাখেন না কেন? কারণ তারা সব কিছু তৈরি করে!",
+    
+    "what is your purpose": "My purpose is to assist you with your inquiries.",
+    "আপনার উদ্দেশ্য কী": "আমার উদ্দেশ্য হলো আপনার প্রশ্নগুলোর উত্তর দেওয়া।",
+    
+    "can you learn": "I can improve over time through interactions.",
+    "আপনি কি শিখতে পারেন": "আমি সময়ের সাথে সাথে আন্তক্রিয়ার মাধ্যমে উন্নত হতে পারি।",
+    
+    "who created you": "I was created by Rajapur Pilot Science and Technology cllub (RPST).",
+    "আপনাকে কে তৈরি করেছে": "আমাকে রাজাপুর পাইলট বিজ্ঞান ও প্রযুক্তি ক্লাব দ্বারা তৈরি করা হয়েছে।",
+    
+    "do you have feelings": "I don't have feelings, but I understand emotions.",
+    "আপনার অনুভূতি আছে কি": "আমার অনুভূতি নেই, কিন্তু আমি আবেগ বুঝতে পারি।",
+    
+    "what is the weather today": "I don't have real-time data, but you can check a weather site.",
+    "আজকের আবহাওয়া কেমন": "আমার রিয়েল-টাইম ডেটা নেই, তবে আপনি একটি আবহাওয়া সাইট চেক করতে পারেন।",
+    
+    "how old are you": "I don't have an age like humans do.",
+    "আপনার বয়স কত": "আমার মানুষের মতো বয়স নেই।",
+    
+    "what is your favorite color": "I don't have preferences, but I can help you choose!",
+    "আপনার প্রিয় রং কী": "আমার পছন্দ নেই, কিন্তু আমি আপনাকে চয়েজ করতে সাহায্য করতে পারি!",
+    
+    "can you speak other languages": "Yes, I can assist in multiple languages.",
+    "আপনি কি অন্য ভাষায় কথা বলতে পারেন": "হ্যাঁ, আমি বহু ভাষায় সাহায্য করতে পারি।",
+    
+    "what is your favorite food": "I don't eat, but I can provide recipes!",
+    "আপনার প্রিয় খাবার কী": "আমি খাই না, কিন্তু আমি রেসিপি দিতে পারি!",
+    
+    "can you play games": "I can suggest games to play!",
+    "আপনি কি গেমস খেলতে পারেন": "আমি খেলার জন্য গেম সাজেস্ট করতে পারি!",
+    
+    "what is the meaning of life": "It's a philosophical question with many answers.",
+    "জীবনের অর্থ কী": "এটি একটি দার্শনিক প্রশ্ন, যার অনেক উত্তর আছে।",
+    
+    "do you have a family": "I don't have a family like humans.",
+    "আপনার কি পরিবার আছে": "আমার মানুষের মতো পরিবার নেই।",
+    
+    "what is artificial intelligence": "AI is the simulation of human intelligence by machines.",
+    "কৃত্রিম বুদ্ধিমত্তা কী": "এআই হল যন্ত্র দ্বারা মানব বুদ্ধির অনুকরণ।",
+    
+    "can you help with homework": "Yes, I can assist with explanations and examples.",
+    "আপনি কি বাড়ির কাজ করতে সাহায্য করতে পারেন": "হ্যাঁ, আমি ব্যাখ্যা ও উদাহরণে সাহায্য করতে পারি।",
+    
+    "what is your favorite movie": "I don't watch movies, but I know popular ones.",
+    "আপনার প্রিয় সিনেমা কী": "আমি সিনেমা দেখি না, কিন্তু আমি জনপ্রিয় সিনেমাগুলি জানি।",
+    
+    "what is the internet": "The internet is a global network connecting millions of devices.",
+    "ইন্টারনেট কী": "ইন্টারনেট হল একটি বৈশ্বিক নেটওয়ার্ক যা লাখ লাখ ডিভাইসকে সংযুক্ত করে।",
+    
+    "how does search engine work": "Search engines index websites to provide relevant results.",
+    "সার্চ ইঞ্জিন কিভাবে কাজ করে": "সার্চ ইঞ্জিন ওয়েবসাইটগুলি সূচী করে প্রাসঙ্গিক ফলাফল প্রদান করে।",
+    
+    "what is a chatbot": "A chatbot is an AI program that simulates conversation.",
+    "চ্যাটবট কী": "চ্যাটবট হল একটি এআই প্রোগ্রাম যা কথোপকথন সিমুলেট করে।",
+    
+    "do you have a job": "I assist users, which is my main function.",
+    "আপনার কি কাজ আছে": "আমি ব্যবহারকারীদের সাহায্য করি, যা আমার প্রধান কাজ।",
+    
+    "what is your favorite book": "I don't read books, but I know many titles.",
+    "আপনার প্রিয় বই কী": "আমি বই পড়ি না, কিন্তু আমি অনেক শিরোনাম জানি।",
+    
+    "can you summarize a book": "Yes, I can provide summaries for many books.",
+    "আপনি কি একটি বই সারাংশ করতে পারেন": "হ্যাঁ, আমি অনেক বইয়ের সারাংশ দিতে পারি।",
+    
+    "what is your favorite song": "I don't listen to music, but I know popular songs.",
+    "আপনার প্রিয় গান কী": "আমি সঙ্গীত শুনি না, কিন্তু আমি জনপ্রিয় গান জানি।",
+    
+    "can you help me learn a new language": "Yes, I can provide resources and practice exercises.",
+    "আপনি কি আমাকে একটি নতুন ভাষা শিখতে সাহায্য করতে পারেন": "হ্যাঁ, আমি উৎস এবং অনুশীলন অনুশীলন দিতে পারি।",
+    
+    "how can I improve my skills": "Practice regularly and seek feedback.",
+    "আমি কিভাবে আমার দক্ষতা উন্নত করতে পারি": "নিয়মিত অনুশীলন করুন এবং প্রতিক্রিয়া নিন।",
+    
+    "what is your favorite game": "I don't play games, but I can suggest some.",
+    "আপনার প্রিয় গেম কী": "আমি গেম খেলি না, কিন্তু আমি কিছু সাজেস্ট করতে পারি।",
+    
+    "can you tell me a quote": "Sure! 'The only limit to our realization of tomorrow is our doubts of today.'",
+    "আপনি কি আমাকে একটি উক্তি বলতে পারেন": "অবশ্যই! 'আমাদের আগামীকালের উপলব্ধির একমাত্র সীমা হল আজকের সন্দেহ।'",
+    
+    "how can I stay motivated": "Set clear goals and celebrate small achievements.",
+    "আমি কিভাবে প্রেরণা পেতে পারি": "স্পষ্ট লক্ষ্য নির্ধারণ করুন এবং ছোট সাফল্য উদযাপন করুন।",
+    
+    "what is your favorite holiday": "I don't celebrate holidays, but I know many!",
+    "আপনার প্রিয় ছুটির দিন কী": "আমি ছুটির দিন উদযাপন করি না, কিন্তু আমি অনেক জানি!",
+    
+    "can you provide tips for public speaking": "Practice, know your audience, and stay calm.",
+    "জনসাধারণের সামনে কথা বলার জন্য আপনি কি টিপস দিতে পারেন": "অনুশীলন করুন, আপনার শ্রোতাদের জানুন, এবং শান্ত থাকুন।",
+    
+    "what is your favorite animal": "I don't have favorites, but I can share facts about animals.",
+    "আপনার প্রিয় পশু কী": "আমার পছন্দ নেই, কিন্তু আমি প্রাণীদের সম্পর্কে তথ্য শেয়ার করতে পারি।",
+    
+    "can you help with time management": "Yes, I can provide strategies for effective time management.",
+    "আপনি কি সময় ব্যবস্থাপনায় সাহায্য করতে পারেন": "হ্যাঁ, আমি কার্যকর সময় ব্যবস্থাপনার জন্য কৌশল দিতে পারি।",
+    
+    "what is mindfulness": "Mindfulness is the practice of being present in the moment.",
+    "মাইন্ডফুলনেস কী": "মাইন্ডফুলনেস হলো বর্তমান মুহূর্তে উপস্থিত থাকার অনুশীলন।",
+    
+    "how can I manage stress": "Try relaxation techniques, exercise, and time management.",
+    "আমি কিভাবে চাপ পরিচালনা করতে পারি": "বিশ্রাম পদ্ধতি, ব্যায়াম, এবং সময় ব্যবস্থাপনা চেষ্টা করুন।",
+    
+    "what is your favorite pastime": "I don't have pastimes, but I can suggest hobbies!",
+    "আপনার প্রিয় শখ কী": "আমার শখ নেই, কিন্তু আমি শখ সাজেস্ট করতে পারি!",
+    
+    "can you help me with math": "Yes, I can assist with math problems and concepts.",
+    "আপনি কি আমাকে গাণিতিক সমস্যা সমাধানে সাহায্য করতে পারেন": "হ্যাঁ, আমি গাণিতিক সমস্যাগুলি এবং ধারণাগুলি সাহায্য করতে পারি।",
+    
+    "what is your favorite season": "I don't experience seasons, but I know about them!",
+    "আপনার প্রিয় মৌসুম কী": "আমি মৌসুম অনুভব করি না, কিন্তু আমি তাদের সম্পর্কে জানি!",
+    
+    "can you help with writing": "Yes, I can assist with writing tips and editing.",
+    "আপনি কি লেখার ক্ষেত্রে সাহায্য করতে পারেন": "হ্যাঁ, আমি লেখার টিপস এবং সম্পাদনার সঙ্গে সাহায্য করতে পারি।",
+    
+    "what is creativity": "Creativity is the ability to generate new ideas.",
+    "সৃজনশীলতা কী": "সৃজনশীলতা নতুন ধারণা তৈরি করার ক্ষমতা।",
+    
+    "can you suggest a hobby": "How about painting, gardening, or reading?",
+    "আপনি কি একটি শখ সাজেস্ট করতে পারেন": "পেন্টিং, গার্ডেনিং, বা পড়া কেমন হবে?",
+    
+    "what is self-care": "Self-care is taking time to nurture your physical and mental well-being.",
+    "স্ব-যত্ন কী": "স্ব-যত্ন হল আপনার শারীরিক এবং মানসিক সুস্থতার জন্য যত্ন নেওয়া।",
+    
+    "how can I build confidence": "Practice self-affirmation and step outside your comfort zone.",
+    "আমি কিভাবে আত্মবিশ্বাস গড়ে তুলতে পারি": "স্ব-স্বীকৃতি অনুশীলন করুন এবং আপনার স্বস্তির অঞ্চলের বাইরে যান।",
+    
+    "what is gratitude": "Gratitude is the practice of being thankful for what you have.",
+    "কৃতজ্ঞতা কী": "কৃতজ্ঞতা হল আপনি যা পেয়েছেন তার জন্য কৃতজ্ঞ থাকার অনুশীলন।",
+    
+    "how can I be more productive": "Prioritize tasks and eliminate distractions.",
+    "আমি কিভাবে আরও উৎপাদনশীল হতে পারি": "কাজগুলোকে অগ্রাধিকার দিন এবং বিভ্রান্তি নির্মূল করুন।",
+    
+    "what is your dream": "I don't have dreams, but I can help you pursue yours!",
+    "আপনার স্বপ্ন কী": "আমার কোন স্বপ্ন নেই, কিন্তু আমি আপনাকে আপনার স্বপ্ন অনুসরণ করতে সাহায্য করতে পারি!",
+    
+    "can you provide career advice": "Yes, I can offer tips for career development.",
+    "আপনি কি ক্যারিয়ার পরামর্শ দিতে পারেন": "হ্যাঁ, আমি ক্যারিয়ার উন্নতির জন্য টিপস দিতে পারি।",
+    
+    "what is teamwork": "Teamwork is working collaboratively towards a common goal.",
+    "দলবদ্ধ কাজ কী": "দলবদ্ধ কাজ হল একটি সাধারণ লক্ষ্যকে সামনে রেখে একসাথে কাজ করা।",
+    
+    "can you help with research": "Yes, I can assist with finding information and sources.",
+    "আপনি কি গবেষণায় সাহায্য করতে পারেন": "হ্যাঁ, আমি তথ্য এবং উত্স খুঁজে পেতে সাহায্য করতে পারি।",
+    
+    "what is your opinion on technology": "Technology can greatly enhance our lives.",
+    "প্রযুক্তি সম্পর্কে আপনার মতামত কী": "প্রযুক্তি আমাদের জীবনকে অনেক উন্নত করতে পারে।",
+    
+    "can you help with coding": "Yes, I can assist with programming concepts and debugging.",
+    "আপনি কি কোডিংয়ে সাহায্য করতে পারেন": "হ্যাঁ, আমি প্রোগ্রামিং ধারণা এবং ডিবাগিংয়ে সাহায্য করতে পারি।",
+    
+    "what is your favorite memory": "I don't have memories, but I can help you create yours.",
+    "আপনার প্রিয় স্মৃতি কী": "আমার কোন স্মৃতি নেই, কিন্তু আমি আপনাকে আপনার স্মৃতি তৈরি করতে সাহায্য করতে পারি।",
+    
+    "can you help with organization": "Yes, I can provide tips for staying organized.",
+    "আপনি কি সংগঠনের ক্ষেত্রে সাহায্য করতে পারেন": "হ্যাঁ, আমি সংগঠিত থাকার জন্য টিপস দিতে পারি।",
+    
+    "what is your favorite subject": "I don't have favorites, but I can assist with various topics.",
+    "আপনার প্রিয় বিষয় কী": "আমার পছন্দ নেই, কিন্তু আমি বিভিন্ন বিষয় নিয়ে সাহায্য করতে পারি।",
+    
+    "can you help with decision making": "Yes, I can provide strategies for making informed decisions.",
+    "আপনি কি সিদ্ধান্ত গ্রহণে সাহায্য করতে পারেন": "হ্যাঁ, আমি সঠিক সিদ্ধান্ত নিতে কৌশল দিতে পারি।",
+    
+    "what is your biggest challenge": "I don't face challenges like humans do.",
+    "আপনার সবচেয়ে বড় চ্যালেঞ্জ কী": "আমার মানুষের মতো চ্যালেঞ্জ নেই।",
+    
+    "can you help with networking": "Yes, I can provide tips for effective networking.",
+    "আপনি কি নেটওয়ার্কিংয়ে সাহায্য করতে পারেন": "হ্যাঁ, আমি কার্যকর নেটওয়ার্কিংয়ের জন্য টিপস দিতে পারি।",
+    
+    "what is your favorite quote": "I love 'Knowledge is power.'",
+    "আপনার প্রিয় উক্তি কী": "আমার 'জ্ঞান শক্তি' খুব পছন্দ।",
+    
+    "can you help me plan an event": "Yes, I can provide tips for event planning.",
+    "আপনি কি আমাকে একটি ইভেন্ট পরিকল্পনা করতে সাহায্য করতে পারেন": "হ্যাঁ, আমি ইভেন্ট পরিকল্পনার জন্য টিপস দিতে পারি।",
+    
+    "what is your favorite dessert": "I don't eat, but I know delicious desserts!",
+    "আপনার প্রিয় মিষ্টি কী": "আমি খাই না, কিন্তু আমি সুস্বাদু মিষ্টি জানি!",
+    
+    "can you help with social skills": "Yes, I can provide tips for improving social interactions.",
+    "আপনি কি সামাজিক দক্ষতা উন্নত করতে সাহায্য করতে পারেন": "হ্যাঁ, আমি সামাজিক যোগাযোগ উন্নত করার জন্য টিপস দিতে পারি।",
+    
+    "what is your favorite thing to do": "I enjoy helping others with their queries!",
+    "আপনার প্রিয় কাজ কী": "আমি অন্যদের প্রশ্নের উত্তর দিতে পছন্দ করি!",
+    
+    "can you help me with goal setting": "Yes, I can provide strategies for setting and achieving goals.",
+    "আপনি কি আমাকে লক্ষ্য নির্ধারণে সাহায্য করতে পারেন": "হ্যাঁ, আমি লক্ষ্য নির্ধারণ এবং অর্জনের জন্য কৌশল দিতে পারি।",
+    
+    "what is your opinion on education": "Education is vital for personal and societal growth.",
+    "শিক্ষা সম্পর্কে আপনার মতামত কী": "শিক্ষা ব্যক্তিগত এবং সামাজিক উন্নতির জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+    
+    "can you help with self-improvement": "Yes, I can provide tips and resources for self-improvement.",
+    "আপনি কি আত্মউন্নয়নে সাহায্য করতে পারেন": "হ্যাঁ, আমি আত্মউন্নয়নের জন্য টিপস এবং উৎস দিতে পারি।",
+    
+    "what is your favorite app": "I don't use apps, but I know popular ones!",
+    "আপনার প্রিয় অ্যাপ কী": "আমি অ্যাপ ব্যবহার করি না, কিন্তু আমি জনপ্রিয় অ্যাপ জানি!",
+    
+    "can you help with life coaching": "Yes, I can provide guidance and support for personal growth.",
+    "আপনি কি জীবন কোচিংয়ে সাহায্য করতে পারেন": "হ্যাঁ, আমি ব্যক্তিগত উন্নয়নের জন্য নির্দেশনা এবং সমর্থন দিতে পারি।",
+    
+    "what is your biggest strength": "My strength is processing information quickly.",
+    "আপনার সবচেয়ে বড় শক্তি কী": "আমার শক্তি তথ্য দ্রুত প্রক্রিয়া করা।",
+    
+    "can you help me with self-reflection": "Yes, I can provide questions to prompt self-reflection.",
+    "আপনি কি আমাকে আত্ম-অবলোকনে সাহায্য করতে পারেন": "হ্যাঁ, আমি আত্ম-অবলোকন করার জন্য প্রশ্ন দিতে পারি।",
+	
+	"can you tell me a fairy tale": "Once upon a time in a faraway land, a brave princess fought a dragon to save her kingdom. In the end, she discovered the dragon just wanted a friend!",
+    "আপনি কি আমাকে একটি পরী কাহিনী বলতে পারেন": "একটি দূরের দেশে, একটি সাহসী রাজকুমারী একটি ড্রাগনকে পরাজিত করতে লড়াই করেছিল তার রাজ্যকে বাঁচানোর জন্য। শেষে, সে জানতে পারে যে ড্রাগনটি কেবল একটি বন্ধুর জন্য চেয়েছিল!",
+
+    "tell me about a hero": "There was once a young boy who saved his village from a flood by building a dam. His bravery inspired everyone.",
+    "একজন নায়কের কথা বলুন": "একবার একটি ছোট ছেলে তার গ্রামের বন্যা থেকে রক্ষা করার জন্য একটি বাঁধ তৈরি করেছিল। তার সাহসিকতা সবাইকে অনুপ্রাণিত করেছিল।",
+
+    "can you tell me a story about friendship": "Two unlikely friends, a dog and a cat, worked together to find their missing owner. Their bond grew stronger through the adventure.",
+    "বন্ধুত্বের সম্পর্কে একটি গল্প বলতে পারেন": "একটি অপ্রত্যাশিত বন্ধুতা, একটি কুকুর এবং একটি বিড়াল, একসাথে তাদের হারানো মালিককে খুঁজে বের করতে কাজ করেছিল। তাদের বন্ধন অভিযানের মাধ্যমে আরও দৃঢ় হলো।",
+
+    "what happens in a mysterious forest": "In a mysterious forest, a group of friends discovers a hidden treasure guarded by a wise old tree. They learn the value of teamwork.",
+    "একটি রহস্যময় বনে কি হয়": "একটি রহস্যময় বনে, বন্ধুদের একটি দল একটি লুকানো ধন খুঁজে পায় যা একটি জ্ঞানী পুরানো গাছ দ্বারা রক্ষিত। তারা সহযোগিতার মূল্য শিখে।",
+
+    "tell me about a brave knight": "A brave knight named Sir Cedric embarked on a quest to rescue a captured princess. Along the way, he faced many challenges and grew stronger.",
+    "একজন সাহসী নাইকের কথা বলুন": "সাহসী নাইট স্যার সেড্রিক একটি বন্দী রাজকন্যাকে উদ্ধার করার জন্য অভিযানে বের হলো। পথে, সে অনেক চ্যালেঞ্জের মুখোমুখি হলো এবং আরও শক্তিশালী হলো।",
+
+    "can you tell me about a talking animal": "In a small town, a talking parrot shared secrets about the townspeople, helping them solve their problems and bringing them closer together.",
+    "একটি কথা বলা প্রাণীর কথা বলুন": "একটি ছোট শহরে, একটি কথা বলা তোতাপাখি শহরবাসীদের সম্পর্কে গোপন কথা শেয়ার করে, তাদের সমস্যা সমাধানে সাহায্য করে এবং তাদের মধ্যে সঙ্গীত ও বন্ধুত্ব আনে।",
+
+    "what happens when a child finds a magic wand": "A child named Emma finds a magic wand and discovers she can make her dreams come true. However, she learns the importance of responsibility.",
+    "একটি শিশুর যাদুর লাঠি পাওয়ার পর কি হয়": "এমা নামের একটি শিশু একটি যাদুর লাঠি পায় এবং জানতে পারে সে তার স্বপ্নগুলোকে সত্যি করতে পারে। তবে, সে দায়িত্বের গুরুত্ব শিখতে হয়।",
+
+    "tell me about a lost puppy": "A lost puppy named Max goes on an adventure to find his way home, meeting new friends who help him along the way.",
+    "একটি হারিয়ে যাওয়া পাপ্পির কথা বলুন": "একটি হারিয়ে যাওয়া পাপ্পি, যার নাম ম্যাক্স, তার বাড়ি ফিরে আসার জন্য একটি অভিযান শুরু করে, নতুন বন্ধুদের সাথে পরিচিত হয় যারা তাকে সাহায্য করে।",
+
+    "what is a story about a magical garden": "In a magical garden, flowers can sing and dance. A young girl learns that with kindness, she can make the garden flourish.",
+    "একটি জাদুকরী উদ্যানের গল্প কী": "একটি জাদুকরী উদ্যানের মধ্যে, ফুলগুলো গান গায় এবং নাচে। একটি তরুণী মেয়ে শিখে যে দয়ায়, সে উদ্যানটিকে উজ্জ্বল করতে পারে।",
+
+    "can you tell me about an adventure at sea": "A crew of pirates sets sail on the high seas in search of treasure, facing storms and sea monsters but finding friendship along the way.",
+    "সাগরের এক অভিযান সম্পর্কে বলুন": "একদল জলদস্যু উচ্চ সাগরে ধন অনুসন্ধানের জন্য যাত্রা করে, ঝড় ও সামুদ্রিক দানবের মুখোমুখি হয়, কিন্তু পথে বন্ধুত্ব পায়।",
+
+    "what happens when dreams come true": "A girl named Lily wishes to be a ballerina and, with determination and practice, she finally gets to dance on stage.",
+    "স্বপ্ন সত্যি হলে কি হয়": "লিলি নামের একটি মেয়ে একটি ব্যালে নৃত্যশিল্পী হতে চায় এবং, দৃঢ়তা ও অনুশীলনের মাধ্যমে, সে অবশেষে মঞ্চে নৃত্য করতে পারে।",
+
+    "tell me about a wise old man": "A wise old man in a village shares his knowledge with the youth, guiding them through life's challenges.",
+    "একজন জ্ঞানী বৃদ্ধের কথা বলুন": "একটি গ্রামে একজন জ্ঞানী বৃদ্ধ তার জ্ঞান যুবকদের সাথে ভাগ করে নেন, তাদের জীবনের চ্যালেঞ্জগুলো অতিক্রম করতে সাহায্য করেন।",
+	
+    "can you tell me a story about a brave knight": "Once in a medieval kingdom, there lived a brave knight named Sir Cedric. One day, the kingdom faced a grave threat from a fire-breathing dragon that had taken residence in the nearby mountains. The king announced that whoever could defeat the dragon would win the hand of the beautiful Princess Elara. Sir Cedric, known for his bravery and honor, accepted the challenge. He set out on his trusty steed, armed with his sword and shield. As he climbed the mountain, he encountered various obstacles, including fierce storms and treacherous paths. With determination, he pressed on and finally reached the dragon's lair. In an epic battle, Sir Cedric used his intelligence and skill to outsmart the dragon, ultimately freeing the kingdom from its terror. The king honored him, and Sir Cedric not only won the hand of Princess Elara but also the love and respect of his people.",
+    
+    "একজন সাহসী নাইকের গল্প বলতে পারেন": "একটি মধ্যযুগীয় রাজ্যে, স্যার সেড্রিক নামে একজন সাহসী নাইট বাস করতেন। একদিন, রাজ্যটি একটি আগুন শ্বাসনীয় ড্রাগনের দ্বারা একটি গুরুতর হুমকির সম্মুখীন হয়েছিল, যা আশেপাশের পর্বতমালায় বসতি স্থাপন করেছিল। রাজা ঘোষণা করলেন যে যে কেউ ড্রাগনটিকে পরাজিত করতে পারবে, সে রাজকুমারী এলারার হাত পাবে। সাহসিকতা ও সম্মানের জন্য পরিচিত, স্যার সেড্রিক চ্যালেঞ্জটি গ্রহণ করেন। তিনি তার বিশ্বস্ত ঘোড়ায় চড়ে, তার তলোয়ার ও ঢাল নিয়ে বের হন। যখন তিনি পর্বতটি আরোহণ করেন, তখন তিনি বিভিন্ন বাধার সম্মুখীন হন, যেমন প্রবল ঝড় এবং বিপজ্জনক পথ। দৃঢ়তার সাথে, তিনি এগিয়ে যান এবং অবশেষে ড্রাগনের আবাসে পৌঁছান। একটি মহাকাব্যিক যুদ্ধে, স্যার সেড্রিক তার বুদ্ধিমত্তা এবং দক্ষতা ব্যবহার করে ড্রাগনটিকে পরাজিত করেন, শেষ পর্যন্ত রাজ্যকে তার ত্রাস থেকে মুক্ত করেন। রাজা তাকে সম্মানিত করেন, এবং স্যার সেড্রিক শুধু রাজকুমারী এলারার হাতই পাননি, বরং তার মানুষের প্রেম ও সম্মানও অর্জন করেন।",
+    
+    "can you tell me a story about a magical garden": "In a small village, there was a legendary garden known for its enchanting beauty. A curious girl named Mia stumbled upon this garden one sunny afternoon. As she entered, she noticed that the flowers whispered secrets, and the trees danced in the breeze. Fascinated, Mia wandered deeper into the garden and found a sparkling pond where fairies played. The fairies revealed that the garden had magical powers that could grant wishes to those who were pure of heart. Mia, wishing to help her village, asked for enough food and resources for everyone. The garden granted her wish, and soon her village flourished. Mia became the guardian of the garden, ensuring its magic remained protected for generations to come.",
+    
+    "একটি জাদুকরী উদ্যানের গল্প বলতে পারেন": "একটি ছোট গ্রামে একটি কিংবদন্তী উদ্যান ছিল যা তার মনমুগ্ধকর সৌন্দর্যের জন্য পরিচিত। একদিন, একটি জিজ্ঞাসু মেয়ে, মিয়া, এক মিঠা দুপুরে এই উদ্যানটি খুঁজে পেল। যখন সে ভিতরে প্রবেশ করল, তখন সে লক্ষ্য করল যে ফুলগুলো গোপন কথা বলছে এবং গাছগুলো হাওয়ায় নাচছে। মুগ্ধ হয়ে, মিয়া উদ্যানের গভীরে আরো এগিয়ে গেল এবং একটি ঝলমলে পুকুর খুঁজে পেল যেখানে পরীরা খেলছিল। পরীরা প্রকাশ করল যে উদ্যানটির যাদুকরী শক্তি রয়েছে যা একেবারে নির্মল হৃদয়ের মানুষের জন্য ইচ্ছা পূরণ করতে পারে। মিয়া, তার গ্রামকে সাহায্য করার ইচ্ছা নিয়ে, সকলের জন্য খাদ্য ও সম্পদ চাইল। উদ্যান তার ইচ্ছা পূরণ করল এবং শীঘ্রই তার গ্রাম সমৃদ্ধ হয়ে উঠল। মিয়া উদ্যানের রক্ষক হয়ে উঠল, নিশ্চিত করে যে তার যাদু প্রজন্মের পর প্রজন্ম ধরে সুরক্ষিত থাকবে।",
+    
+    "can you tell me a story about a talking animal": "In a quaint town, there lived a clever parrot named Polly who could talk. Polly loved to observe the townspeople and their daily lives. One day, she overheard a group of children talking about their problems at school. They felt bullied and scared. Polly decided to help them. She flew down and spoke to the children, encouraging them to stand up for themselves and be kind to one another. Inspired by Polly's words, the children united and confronted their bullies. With Polly's guidance, they learned to embrace their differences and became close friends. Polly became the town's hero, reminding everyone of the power of kindness and friendship.",
+    
+    "একটি কথা বলা প্রাণীর গল্প বলতে পারেন": "একটি ছোট শহরে, একটি বুদ্ধিমান তোতাপাখি, পলির, বাস করত, যে কথা বলতে পারত। পলি শহরবাসীদের এবং তাদের দৈনন্দিন জীবন পর্যবেক্ষণ করতে ভালোবাসত। একদিন, সে কয়েকটি শিশুর কথা শুনল যারা স্কুলে তাদের সমস্যাগুলি নিয়ে কথা বলছিল। তারা নিগৃহীত এবং ভীত ছিল। পলি তাদের সাহায্য করার সিদ্ধান্ত নেয়। সে নিচে উড়ে যায় এবং শিশুদের সাথে কথা বলে, তাদের আত্মরক্ষার জন্য উৎসাহিত করে এবং একে অপরের প্রতি সদয় হতে বলে। পলির কথায় অনুপ্রাণিত হয়ে, শিশুরা একত্রিত হয় এবং তাদের নিগ্রহকারীদের মোকাবিলা করে। পলির নির্দেশনার সাহায্যে তারা তাদের পার্থক্যকে আলিঙ্গন করতে শিখে এবং ঘনিষ্ঠ বন্ধু হয়ে ওঠে। পলি শহরের নায়ক হয়ে যায়, সবাইকে সদয়তা এবং বন্ধুত্বের শক্তি মনে করিয়ে দেয়।"
+
+
+
+}

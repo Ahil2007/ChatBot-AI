@@ -1,0 +1,11 @@
+{
+  "name": "chatbot-ai-rpst",
+  "version": "1.1.1",
+  "description": "Simple chatbot using predefined data",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

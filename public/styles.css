@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    font-family: 'Noto Sans Bangla', sans-serif;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.left-section {
+    flex: 1;
+    color: white;
+    padding: 20px;
+}
+
+.right-section {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatbox {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 400px;
+    width: 100%;
+}
+
+.chat-history {
+    border: 1px solid #e066ff;
+    border-radius: 10px;
+    padding: 15px;
+    flex-grow: 1;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    overflow-y: auto; /* Enables vertical scroll */
+    max-height: 300px; /* Limits the height of the chatbox content to enable scrolling */
+}
+
+.chat-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chat-input input {
+    width: 85%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    outline: none;
+}
+
+.chat-input button {
+    padding: 10px 20px;
+    background-color: #e066ff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.chat-input button:hover {
+    background-color: #c856df;
+}
+
+/* Bold label style */
+.bold-label {
+    font-weight: bold;
+}
+
+/* Chat messages - Style for user and AI messages */
+.user-message {
+    align-self: flex-end;
+    background-color: #d1ffd6;
+    color: #333;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    max-width: 80%;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+
+.ai-message {
+    align-self: flex-start;
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    max-width: 80%;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 600px) {
+    .container {
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .chatbox {
+        width: 100%;
+    }
+
+    .chat-input input {
+        width: 75%;
+    }
+
+    .chat-input button {
+        width: 20%;
+    }
+}
