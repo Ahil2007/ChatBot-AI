@@ -81,7 +81,6 @@ async function fetchResponse(message) {
     }
 }
 
-
 // Trigger sending the message and getting a response
 function sendMessage() {
     const userInput = document.getElementById('user-input').value; // Ensure the ID matches your HTML
