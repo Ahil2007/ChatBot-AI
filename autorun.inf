@@ -1,5 +1,0 @@
-[autorun]
-label=ChatBot AI
-open=LaunchChatBot-AI.bat
-action=Open ChatBot AI
-icon=public/images/bg-image.ico  # Optional: path to your icon file (if you have one)
